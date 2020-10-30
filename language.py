@@ -4,14 +4,18 @@ import os
 # Beschikbare talen
 languages = ["NL", "EN", "FR", "DE", "ES", "RU"]
 
+def importData(language):
+    path = ""
 
-# def importData():
+    base = os.path.dirname(os.path.abspath(__file__)) + "/data"
+    folder = os.path.join(base, language)
+    files = [os.path.join(path, file) for file in os.listdir(folder)]
 
-characters = [chr(i) for i in range(33, 64)] # Leestekens en cijfers
-characters.extend([chr(i) for i in range(91, 126)]) # Latijns alfabet
-characters.extend([chr(i) for i in range(161, 171)]) # Valuta's
-characters.extend([chr(i) for i in range(223, 255)]) # Speciale characters
-characters.extend([chr(i) for i in range(400, 450)]) # Russische characters
+    dataset = []
+    for path in files:
+        file = open(path, 'r', encoding="utf8")
+        
+    print(files)
 
 def setTrigram(characters):
     trigram = {}
@@ -23,11 +27,17 @@ def setTrigram(characters):
 
     return trigram
 
-trigrams = setTrigram(characters)
-print(characters)
-print(trigrams)
-
 def trainGrams(data, gram):
     for i in gram:
         gram[i] += 1
+
+
+characters = [chr(i) for i in range(33, 64)] # Leestekens en cijfers
+characters.extend([chr(i) for i in range(91, 126)]) # Latijns alfabet
+characters.extend([chr(i) for i in range(161, 171)]) # Valuta's
+characters.extend([chr(i) for i in range(223, 255)]) # Speciale characters
+characters.extend([chr(i) for i in range(400, 450)]) # Russische characters
+
+trigrams = setTrigram(characters)
+print(characters)
 
