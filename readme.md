@@ -1,5 +1,2 @@
-Verkregen via
-http://gutenberg.org/
-
-Alice in wonderland:
-http://gutenberg.org/ebooks/11
+## Language guesser project
+Guesses 6 languages
