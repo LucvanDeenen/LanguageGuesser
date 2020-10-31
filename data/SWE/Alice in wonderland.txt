@@ -1,0 +1,1342 @@
+ÖREBRO UNIVERSITET
+Grundlärarprogammet, inriktning mot arbete i förskoleklass och grundskolans årskurs 1–3
+Svenska språket/Litteraturvetenskap
+Svenska, Självständigt arbete, avancerad nivå, inriktning f-3, 15 högskolepoäng
+Vårterminen 2018
+Alice i Underlandet
+- En komparativ analys av Lewis Carrolls originalversion och Susie Linns bilderbok
+Kristin Noord & Lena Nyrén
+Handledare: Carina Lidström
+1
+Alice i Underlandet – en komparativ analys av Lewis
+Carrolls originalversion och Susie Linns bilderbok
+Kristin Noord & Lena Nyrén
+Grundlärarprogammet, inriktning mot arbete i förskoleklass och grundskolans årskurs 1–3
+Svenska språket/Litteraturvetenskap
+Svenska, Självständigt arbete, avancerad nivå, inriktning f-3, 15 högskolepoäng
+Vårterminen 2018
+Sammanfattning
+I denna uppsats gör vi en komparativ analys av Lewis Carrolls (1865) originalversion
+Alice i Underlandet med en bilderboksversion av Susie Linn (2015). Syftet är att
+undersöka vad som skett efter att en adaption har genomförts från kapitelbok till
+bilderbok. Vi tittar på vilka skillnader och likheter det finns mellan böckerna, och det
+inkluderar även karaktärerna, vilka är Alice, den vita kaninen, kålmasken/fjärilslarven
+och Cheshirekatten, samt tre episoder, tebjudningen, krocketturneringen och
+rättegången.
+Analysens resultat visar att böckerna följer samma kronologi, men i bilderboken som
+en komprimerad version. Det finns vissa delar som är borttagna efter adaptionen till
+bilderboken men de mest kända episoderna är kvar. Resultatet visar även att
+karaktärerna har fått en mildare framtoning i bilderboken jämfört med kapitelboken.
+Vi kan också konstatera att litteraturen är relevant till att använda i undervisningen i
+förskoleklass upp till årskurs 3.
+Nyckelord: Lewis Carroll, Susie Linn, adaption, Alice i Underlandet, bilderbok
+2
+Innehållsförteckning
+1 INLEDNING.................................................................................... 4
+1.1 SYFTE ........................................................................................................... 4
+1.2 FRÅGESTÄLLNINGAR .................................................................................... 5
+1.3 DISPOSITION ................................................................................................. 5
+1.4 VAL AV PRIMÄRKÄLLOR ............................................................................... 5
+2 TEORI.............................................................................................. 6
+2.1 ADAPTION .................................................................................................... 6
+2.2 OLIKA KATEGORIER AV LITTERÄRA KARAKTÄRER ........................................ 7
+2.3 BILDERBOKEN .............................................................................................. 8
+3 METOD.......................................................................................... 10
+3.1 METODDISKUSSION .................................................................................... 11
+4 BAKGRUND.................................................................................. 12
+4.1 LEWIS CARROLL......................................................................................... 12
+4.1.1 Bakgrunden till Alice i Underlandet. ...................................................................... 12
+4.2 SUSIE LINN ................................................................................................. 13
+4.3 RESUMÉ AV ALICE I UNDERLANDET SOM KAPITELBOK ................................. 13
+4.4 RESUMÉ AV ALICE I UNDERLANDET SOM BILDERBOK................................... 14
+4.5 GENRE – FANTASY ...................................................................................... 14
+5 TIDIGARE FORSKNING ........................................................... 16
+6 ANALYS/SKILLNADER OCH LIKHETER ............................ 17
+6.1 ÖVERGRIPANDE SKILLNADER OCH LIKHETER MELLAN BÖCKERNA .............. 17
+6.1.1 Skillnader och likheter............................................................................................. 19
+6.2 ALICE ......................................................................................................... 20
+6.2.1 Karaktären Alice i kapitelboken.............................................................................. 20
+6.2.2 Karaktären Alice i bilderboken. .............................................................................. 22
+6.2.3 Skillnader och likheter............................................................................................. 22
+6.3 DEN VITA KANINEN..................................................................................... 23
+6.3.1 Karaktären den vita kaninen i kapitelboken. ........................................................... 23
+6.3.2 Karaktären den vita kaninen i bilderboken.............................................................. 24
+6.3.3 Skillnader och likheter............................................................................................. 24
+6.4 KÅLMASKEN /FJÄRILSLARVEN.................................................................... 25
+6.4.1 Karaktären kålmasken/ fjärilslarven i kapitelboken. ............................................... 25
+6.4.2 Karaktären kålmasken/fjärilslarven i bilderboken. ................................................. 26
+6.4.3 Skillnader och likheter............................................................................................. 26
+6.5 CHESHIREKATTEN....................................................................................... 27
+6.5.1 Karaktären Cheshirekatten i kapitelboken. ............................................................. 27
+6.5.2 Karaktären Cheshirekatten i bilderboken. ............................................................... 27
+6.5.3 Skillnader och likheter............................................................................................. 28
+6.6 TEBJUDNINGEN........................................................................................... 28
+3
+6.6.1 Episoden tebjudningen i kapitelboken kapitel ”En tokig tebjudning” sid 58–65.... 28
+6.6.2 Episoden tebjudningen i bilderboken sid 15. .......................................................... 29
+6.6.3 Skillnader och likheter............................................................................................. 30
+6.7 KROCKETTURNERINGEN ............................................................................. 30
+6.7.1 Episoden krocketturneringen i kapitelboken i kapitlet ”Drottningens krocketplan”
+sid 66–74. ......................................................................................................................... 30
+6.7.2 Episoden krocketturneringen i bilderboken sid 15–19............................................ 32
+6.7.3 Skillnader och likheter............................................................................................. 32
+6.8 RÄTTEGÅNGEN ........................................................................................... 33
+6.8.1 Episoden rättegången i kapitelboken i kapitel ”Vem stal kakorna” sid 91–98 och
+kapitlet ”Alice vittnesmål” sid 99–106 ............................................................................ 33
+6.8.2 Episoden rättegången i bilderboken sid 20–23........................................................ 35
+6.8.3 Skillnader och likheter............................................................................................. 35
+7 DISKUSSION ................................................................................ 36
+7.1 DISKUSSION AV RESULTAT.......................................................................... 36
+7.2 DIDAKTISK DISKUSSION .............................................................................. 38
+7.3 FÖRSLAG PÅ VIDARE FORSKNING ................................................................ 40
+7.4 SAMMANFATTANDE REFLEKTIONER............................................................ 40
+8 REFERENSLISTA ....................................................................... 41
+BILAGOR......................................................................................... 43
+4
+1 Inledning
+I dagens samhälle är det allmänt känt att barn och ungdomar har tappat lite av intresset för att
+läsa litterära böcker. Det finns mycket annat som drar till sig uppmärksamheten som
+exempelvis social medier, där barnen får till sig information utan att behöva anstränga sig för
+mycket. För att behålla läslusten hos barn/ungdomar är det bra att hitta någon genre som
+fångar deras intresse. En sådan genre är fantasyböcker där de kan finna spänning och
+verklighetsflykt. Till skillnad från en saga, som enbart är fantasi, bygger fantasygenren på ett
+system med två världar, den från verkligheten och den från fantasin, framhåller
+litteraturvetaren Lena Kåreland i Möte med barnboken (2001, s 81). Författaren påpekar även
+att fantasyböcker är riktade både till barn och ungdomar. I Barnboken i samhället skriver
+Lena Kåreland (2013, s 69) att bilderböcker kan vara riktade både till barn och ungdomar. Här
+ser vi en möjlig koppling mellan Susie Linns bilderbok (2015) om Alice i Underlandet och
+Lewis Carrolls originalverk (1865), och därmed vill vi undersöka i vilken utsträckning
+bilderboken om Alice kan ge samma upplevelse i förhållande till att läsa originalverket.
+Överensstämmer ordspråket en bild säger mer än tusen ord med dessa två böcker som vi har
+valt att fokusera på i vårt arbete.
+Enligt det centrala innehållet i läroplanen för grundskolan, förskoleklassen och fritidshemmet
+inriktning mot årskurs 1–3 (Skolverket 2017, s 253) ska eleverna i ämnet svenska få med sig
+olika berättande texter från olika tidsperioder och texterna kan vara i form av bilderböcker,
+kapitelböcker, dramatik och myter. Utifrån detta finner vi det relevant att undersöka Lewis
+Carrolls Alice i Underlandet och Susie Linns (2015) bilderboksversion av samma bok.
+Läroplanen (Skolverket 2017, s 254) säger även att eleverna bör få med sig kännedom om
+några skönlitterära barnboksförfattare. I och med det utvalda ämnet berör vi den engelska
+författaren Lewis Carroll som har skrivit det klassiska verket. Eleverna får kunskaper om
+fantasygenren och även författaren genom både kapitelbok och bilderbok.
+1.1 Syfte
+I vår uppsats jämför vi Alice i Underlandet av den engelska författaren Lewis Carroll (1865),
+fullständigt översatt av Harry Lundin (1977), med en bilderboksversion återberättad av Susie
+Linn (2015) och översatt av Gunilla Sjöberg (2015, se bilaga 12). Illustratören till Carrolls
+verk är John Tenniel och till Linns bilderbok är det Alexandra Ball. Syftet är att undersöka
+om karaktärerna Alice, den vita kaninen, kålmasken/fjärilslarven och Cheshirekatten 
+5
+förändras i bilderboken i förhållande till originalet och med det menas vilka skillnader och
+likheter som vi kan se efter att adaptionen genomförts. Syftet blir också att undersöka om
+bilderbokens text och bild följer samma kronologi i episoderna under berättelsens gång som i
+originalversionen, och vad som i övrigt förändras i berättelsen efter att adaptionen gjorts. I
+slutet av uppsatsen för vi en didaktisk diskussion om denna litteratur är relevant att använda
+sig av i vår kommande undervisning till åldrarna 6–9 år.
+1.2 Frågeställningar
+Utifrån vårt syfte med denna uppsats har dessa frågeställningar formulerats:
+• Vilka skillnader och likheter finns det i framställningen av berättelsens karaktärer?
+• Vilka skillnader och likheter finns det i kronologin och intrigen i episoderna?
+• Är litteraturen relevant att använda i vår undervisning i förskoleklass till årskurs 3
+och i så fall, hur kan vi använda oss av den?
+1.3 Disposition
+Den resterande delen av det här arbetet är indelat i sex delar. Först kommer ett teoriavsnitt
+som behandlar begreppet adaption och olika sätt att kategorisera olika litterära karaktärer.
+Teoriavsnittet avslutas med en genomgång av bilderboken som medium. Efter teoriavsnittet
+kommer metoddelen och där presenteras vårt tillvägagångssätt i analysen. I avsnittet bakgrund
+presenterar vi författarna Lewis Carroll och Susie Linn samt ger resuméer av båda böckerna
+och en genomgång av fantasygenren. Vidare kommer tidigare forskning om Alice i
+Underlandet och därefter går vi in på analysen. I analysen undersöks skillnader och likheter
+mellan böckerna. Uppsatsen avslutas med en diskussion om resultatet och en didaktisk
+diskussion knuten till styrdokumenten i läroplanen Lgr 11 (2017) samt en sammanfattande
+reflektion.
+1.4 Val av primärkällor
+Valet av primärlitteratur utgick från att vi ville arbeta med kända verk för barn och ungdomar
+från olika tidsepoker, vilket också nämns i syftet för svenskämnet i läroplanen (Skolverket
+2017, s 252). I inledningen av arbetet fokuserade vi på att hitta en lättläst bok som kunde
+jämföras med originalet. De versioner vi hittade på biblioteket var tyvärr redan analyserade
+och resultaten var publicerade på databasen Diva, vilket gjorde att fokus lades på att hitta en 
+6
+bilderbok istället. Valet blev Alice i Underlandet efter att vi hittade bilderboken och sedan
+kapitelboken. När vi gjorde eftersökningar på databasen Diva fann vi att inget arbete hade
+gjorts tidigare inom detta ämne. Vi tyckte även att det var ett bra bokval för att bilderboken
+såg lättläst och trevlig ut samt passade för barn i åldrarna 6–9 år. Utifrån vår uppsats kommer
+vi att titta på om/hur vi kan använda oss av litteraturen i undervisningen och för att sedan
+koppla det till ämnet svenska i läroplanen Lgr 11 (Skolverket 2017, s 253).
+Förtydligande
+Böckerna benämns på olika sätt i den löpande texten. När vi skriver om bilderboken kan vi av
+stilistiska skäl benämna den som både bilderbok och/eller Susie Linns bok/verk, men även
+Linns bilderbok. Originalet av Alice i Underlandet kommer att benämnas som kapitelbok
+och/eller Lewis Carrolls verk/bok. Bilderboken har inga tryckta sidnummer och därmed har vi
+benämnt titelsidan som sidan 1.
+2 Teori
+I det här avsnittet behandlar vi begreppet adaption. Begreppet är viktigt för vår uppsats då vi
+undersöker adaptionens konsekvenser av Alice i Underlandet utifrån karaktärer, episoder samt
+kronologin i berättelsen. Därefter nämner vi olika sätt att kategorisera litterära karaktärer.
+Sista delen av teoriavsnittet utgörs av en genomgång av bilderboken som medium.
+2.1 Adaption
+När vi tittar på Alice i Underlandet i bilderboks form ser vi att det har gjorts en adaption från
+kapitelboken. Konsekvenserna av adaptionen är utgångspunkten i vår undersökning. Phyllis
+Frus och Christy Williams (2010, s 3) förklarar i boken Beyond adaptation att adaption är
+ändringar på originaltexter för att passa in i nya medier, som exempelvis när man gör om en
+äldre version av ett verk för att passa in till en mer modernare version. I litteraturen som
+behandlas i denna uppsats har det skett en adaption från Carrolls verk till Linns bilderbok
+både bildligt och textligt. Genom denna adaption har läsekretsen gjorts tillgänglig för en
+bredare publik eftersom bilderboken har blivit anpassad för en yngre läsgrupp. I vår uppsats
+använder vi oss av begreppet adaption när vi analyserar skillnader och likheter mellan
+kapitelboken och bilderboken. Enligt litteraturvetaren Björn Sundmark (2016, s 1) har det 
+7
+skett flera adaptioner av Alice i Underlandet som exempelvis till film, både animerad och
+spelfilm, och datorspel. Sundmark menar att det finns en lekfullhet i Carrolls text som lockar
+till att göra adaptioner till andra medier och skapa ytterligare en dimension till texten. Även
+kombinationen mellan text och bild av Carrolls verk hjälper till att inspirera andra aktörer i
+andra medier, som exempelvis inom film och dataspel, till att göra adaptioner. Detta bidrar till
+att Alice är en karaktär som är vida spridd i olika sammanhang och i olika åldersgrupper
+(Sundmark 2016, s 3).
+2.2 Olika kategorier av litterära karaktärer
+I denna del belyser vi hur man kan se på litterära karaktärer. Som vi tidigare har tagit upp ska
+vi göra en komparativ analys av olika karaktärer i Alice i Underlandet.
+Det finns olika sätt att belysa litterära karaktärer på enligt litteraturvetarna Claes-Göran
+Holmberg och Anders Ohlsson (1999), författarna till Epikanalys – En introduktion (s.61). De
+tar upp att en karaktär kan vara väl beskriven och ha många egenskaper. De kan växla i sina
+handlingar och i beteendet och det gör att läsaren kan uppleva att karaktären är en verklig
+person. Andra karaktärer kan istället vara ganska bleka och inte vara så grundligt beskrivna.
+Det gör att karaktären framstår som mindre viktig i händelseförloppet. Holmberg och Ohlsson
+berör också att karaktären kan uppfattas både som platt eller flat och med det menar de att
+karaktären är en avbild eller är utformad omkring en och samma idé. En rollfigur blir då
+statisk och är alltid densamma, som exempelvis James Bond. Den blir igenkänd genom att
+vissa detaljer är likadana oberoende av de olika intrigerna. Nikolajeva (2017, s 167) berör
+även hon att litterära karaktärer kan vara av olika slag. Författaren nämner Harry Potter som
+ett exempel på en statisk rollfigur. Det är för att personligheten är intakt genom serien men
+det som ändras är hans ålder. Rollfigurer som istället förändras under berättelsen benämner
+Holmberg och Ohlsson (1999, s 61) som runda eller dynamiska.
+Likt Holmberg och Ohlsson (1999) ger Nikolajeva (2017, s 167–168) också en bild av
+karaktärer som är platta och runda. Hon inleder med att platta karaktärer inte är en fulländad
+karaktär utifrån texten i boken vilket gör att de innehar endast ett kännetecken, som
+exempelvis att personen alltid är glad och positiv i alla lägen. Ibland kan dessa karaktärer
+även vara helt intetsägande och inte visa några synliga kännetecken. Nikolajeva beskriver att
+de runda karaktärerna innehar flera olika kännetecken och de har blivit fulländade utifrån 
+8
+texten. Karaktären känns igen genom berättelsen, men läsaren kan inte alltid förutse
+karaktärens handlande. Författaren skriver vidare att runda personer i en berättelse inte
+behöver vara huvudkaraktärerna i litteraturen utan även bipersonerna kan inneha en sådan
+roll. Karaktären Alice beskrivs av Nikolajeva (2017, s 168) som en rund person med drag av
+det statiska, eftersom hon inte förändras i sitt sätt att vara utan bara förändrar det yttre genom
+hennes storlek. Författaren påpekar dock att de här benämningarna, som karaktärerna erhåller,
+inte är rangordnade på något sätt. Den ena är inte bättre än den andra utan varje författare har
+bara olika sätt att göra personskildringarna på. Under analysens gång undersöker vi om de
+utvalda karaktärerna har samma statiska utformning eller om den har ändrats genom
+adaptionen från kapitelboken till bilderboken.
+2.3 Bilderboken
+Nedan kommer en genomgång av bilderboken som ett medium. Enligt litteraturvetaren Ulla
+Rhedin (2001, s 16) är en bilderbok en berättelse som bygger på samspelet mellan text och
+bild och det ska vara minst en bild på varje uppslag. Författaren och kulturskribenten Lars
+Peterson (1985, s 165) tar upp att i bilderböcker är det bilden som dominerar ur ett visuellt
+perspektiv. Det är också något som man kan utläsa ur bokens beteckning när man säger
+bilderbok påstår författaren. Här kan man också härledas till hur ett barn använder boken. När
+det gäller texten i bilderböcker läses den ofta av en vuxen för barnet, medan bokens bilder
+läses av barnet själv och ofta flera gånger. Här anser författaren att det är bilderna som är det
+mest väsentliga för barnet och att texten kommer i andra hand. Peterson (1985, s 165) belyser
+frågan omkring vad det är som kommer först i bilderboken. Är det bilden som kommer först
+blir då texten en tolkning av bilden eller är det texten som ligger till grund för bilden?
+Författaren menar att det troligtvis samspelar mellan varandra i symbios och att det inte går
+att säga om det är bild eller text som dominerar. Bilden och texten används olika mycket när
+en bilderbok blir till skriver Pettersson (1985, s 166). Det varierar, enligt författaren, beroende
+på vem som skriver och vem som gör illustrationerna. Dessa variationer kommer naturligtvis
+fram i slutresultatet av boken. Vissa författare skriver och illustrerar själva och några exempel
+på dem är Tove Jansson, Elsa Beskow och Jan Lööv. Det vanligaste sättet, enligt Pettersson
+(1985, s 166), är att det är en författare som skriver texten och därefter gör illustratören en
+tolkning av den för att sedan illustrera bilderna till berättelsen. Texten har filtrerats av
+illustratören och därmed har hen satt sin personliga prägel på illustrationerna. Det slutliga 
+9
+resultatet av bilderbokens framförande blir alltså en kombination av författaren och
+illustratörens tolkningar.
+Miljöskildringar ser olika ut i en bilderbok i jämförselvis med en kapitelbok. I en bilderbok
+skapas det olika möjligheter, menar Nikolajeva (2000, s 119), för att få fram miljön både som
+bild och/eller text. För att få en så bra miljöbeskrivning som möjligt är det bilden som
+frambringar det bästa resultatet. Bilderna kan vara i form av små detaljer till att bli stora
+panoramabilder. Detta innebär att bilderna visar bokens motiv och objekts utseende samt
+deras förhållande med varandra. Genom att bilderna i bilderboken är av stor betydelse
+behöver texten inte uttryckas så ingående i miljöskildringarna då bilden talar för sig själv.
+Genom miljöbeskrivningar påvisas det på ett tydligt sätt att en berättarröst är närvarande i
+berättelsen. Det gör också att läsaren tvingas att observera speciella saker i bokens
+omgivning, men författaren gör också ett medvetet val genom att inte ta med alla detaljer.
+Nikolajeva (2000, s 119) skriver även att läsaren får en större frihet till egna tolkningar och
+antaganden om berättaren i boken inte blir synlig för läsaren. I det här fallet bygger det på hur
+mycket läsaren observerar miljöbeskrivningarna och lägger in sina egna värderingar. I enstaka
+fall kan författaren använda sig av både bild och text när miljöskildringar beskrivs. Det blir då
+ett övertydligt sätt att berätta på och lämnar inte några luckor till läsaren. I kapitelböcker
+behövs det mer miljöbeskrivningar för att det ska vara lättare att tolka och förstå dess
+innebörd, men Nikolajeva tar upp att när ungdomar läser litteratur upplever de
+miljöskildringar som tråkiga att läsa och därmed väljer de bort dessa delar. Författarna till
+kapitelböcker för barn och ungdomar lägger därför inte stor vikt vid det.
+När en författare gör en personskildring i en text använder sig hen av olika sätt att ta sig an
+dem. Det som är mest förekommande är beskrivningar av personens yttre attribut genom en
+berättarröst men även personens känsloyttringar, agerande och reaktioner enligt Nikolajeva
+(2000, s 139, 178). I bilderboken kan det vara svårt att förmedla personens känsloyttringar
+medan det är lättare att beskriva karaktärernas yttre. Författarna väljer ibland att inte nämna
+karaktärens yttre i textdelen utan lämnar det till läsarens tolkningar av bilderna. Vidare menar
+Nikolajeva att text i vissa fall förhöjer personskildringen tillsammans med bilden men då ska
+både text och bild överstämma med varandra, för annars kan det bli förvirrande för läsaren. I
+många sekvenser förmedlas det via bilden betydligt mer fakta om karaktärerna än om det
+skulle skrivas med ord (en bild säger mer än tusen ord) framhåller Nikolajeva (2000, s 140),
+och att beskriva känsloyttringar gör man bäst genom att använda sig av en berättarröst i 
+10
+texten. Det kan vara svårt att illustrera en känsloyttring som exempelvis visar att en karaktär
+är tapper. Däremot kan vissa enkla känsloyttringar speglas i bilderna genom att illustratören
+kan illustrera uttryck såsom glädje och ilska. Samspelet mellan text och bild utgör en
+betydande del i bilderboken. Rhedin (2001, s 125) tar upp att i den genuina bilderboken
+används bilderna och texten tillsammans för att föra bokens berättelse framåt. Detta innebär
+att när texten slutar att berätta tar bilderna vid och för handlingen vidare framåt, men det kan
+även vara tvärtom. Den röda tråden förs genom boken antingen genom texten eller genom
+bilderna. Samspelet mellan de båda utgör ytterligare en dimension som inte texten eller bilden
+kan göra var för sig.
+3 Metod
+Metodavsnittet beskriver vårt tillvägagångssätt vid analysen av skillnader och likheter mellan
+karaktärer, episoder och kronologin i Alice i Underlandet av Lewis Carroll (1865) och Susie
+Linn (2015).
+I vår uppsats har vi gjort en komparativ analys, det vill säga en jämförande analys. I boken
+Litteraturvetenskap - inledning (2002, s 53) skriver litteraturvetaren Anders Olsson i kapitlet
+”Intertextualitet, komparation och reception” att en komparativ analys används för att studera
+skillnader och likheter i olika litterära verk.
+Vår utgångspunkt i sökandet efter sekundär litteratur var att vi sökte i olika databaser såsom
+Diva, Elsa och Eric. Sökorden vi använde oss av var ”Alice i Underlandet”, ”Lewis Carroll”,
+”Susie Linn” och ”adaption”. Vi fann äldre studentuppsatser i databasen Diva och de lästes
+igenom. I dessa uppsatser hittades användbara referenser till vårt arbete. Vi hittade enbart ett
+fåtal artiklar som berörde vårt ämne men däremot hittades ett antal böcker som vi fann
+intressanta och användbara i den teoretiska genomgången. De äldre studentuppsatserna
+redovisar vi under rubriken ”Tidigare forskning”.
+Vi har använt oss av några av de utgångspunkter som Ulla Rhedin presenterar i sin
+avhandling Bilderboken på väg mot en teori (2001). När vi har analyserat karaktärerna, Alice,
+den vita kaninen, kålmasken/fjärilslarven och Cheshirekatten, har vi använt oss av Maria
+Nikolajevas redskap som fanns omnämnda i Barnbokens byggklossar (2017, s 163–168). Vi 
+11
+har valt att analysera böckerna utifrån följande; Analysen inleds med en undersökning av hur
+intrigen skildras i de båda böckerna för att sedan fortsätta på en mer detaljerad nivå. Där kom
+vi in på karaktärerna och vi valde ut fyra stycken och de fanns representerade i båda
+böckerna. Avgränsningen gjordes för att kunna göra en mer grundlig analys. Under varje
+karaktär finns det underrubriker där vi redovisar analysen och dessa är:
+• Karaktären (ex Alice) i text och bild i kapitelboken.
+• Karaktären (ex Alice) i text och bild i bilderboken.
+Därefter kommer en genomgång av skillnader och likheter där vi ställer böckerna mot
+varandra och redovisar vad vi har kommit fram till. Kriterierna för analysen av karaktärerna
+utgår från:
+• Beskrivning av utseende av karaktären i både text och bild och samspelet mellan dem.
+• Beskrivning av karaktärens beteenden och olika sätt att uttrycka sig (mimik och
+kroppsspråk) i både text och bild.
+Vi har även valt ut tre episoder som har en central roll i berättelsen och dessa är tebjudningen,
+krocketturneringen samt rättegången. Kriterierna för analysen av episoderna utgår från:
+• Vad som sker i episoden och samspelet mellan text och bild, vilket innefattar även
+miljöskildringar.
+• Framställningen av karaktärerna som inte har nämnts under fördjupningen av
+karaktärsanalysen. Utseendemässigt, beteenden och olika sätt att uttrycka sig (mimik
+och kroppsspråk).
+• Den kronologiska ordningen i episoden.
+3.1 Metoddiskussion
+I vår undersökning har vi använt oss av en komparativ analys vilket har inneburit att vi har
+jämfört kapitelboken med bilderboken utifrån samma kriterier. Det bidrog till att vi fick en
+kontinuitet i undersökningen av karaktärerna och episoderna i intrigen. Efter det kunde vi se
+adaptionens konsekvenser. Denna uppsats är genomförd av två personer och vi har diskuterat
+under analysens gång vad vi har sett angående karaktärer, episoder och miljön. Detta har
+inneburit att vi har fått kompromissat några gånger om resultatet. Hade det varit en författare
+till uppsatsen hade resultat eventuellt blivit annorlunda även med samma kriterier, eftersom vi
+ibland såg karaktärerna på olika sätt. 
+12
+4 Bakgrund
+I denna del presenteras båda författarna, Lewis Carroll och Susie Linn. Avsnittet innehåller
+också en resumé av kapitelboken och en av bilderboken. Vi avslutar denna del med att
+beskriva genren fantasy eftersom Alice i Underlandet tillhör den.
+4.1 Lewis Carroll
+Lewis Carroll föddes som Charles Lutwidge Dodgson i en prästgård 1832 i Cheshire i
+England och han avled 1898 i Guildford. Uppväxten var fylld med lek och fantasi med de tio
+syskonen. Det var oftast Charles som höll i aktiviteterna och kom på nya. Han studerade i
+Oxford där han sedan blev lärare i matematik 1855. Charles började skriva vetenskapliga
+artiklar inom sitt ämne för att sedan gå över till att skriva skönlitterära texter under
+författarnamnet Lewis Carroll. Författarens mest kända verk är Alice i Underlandet (Alice’s
+Adventures in Wonderland) som kom ut 1865 och därefter, 1871, kom även Alice i
+Spegellandet (Through the Looking-Glass) ut. Under hans levnadstid var intresset för unga
+flickor starkt och istället för att umgås med män och kvinnor i sin egen ålder drogs han till
+flickor istället. (Hahn, 2015, s 108–111).
+4.1.1 Bakgrunden till Alice i Underlandet.
+Alice i Underlandet kom till när Carroll berättade historien för Alice Lidell, som då var 10 år,
+och hennes systrar en sommardag på 1860-talet när de var ute på en tur på floden Themsen
+tillsammans. Alice och hennes systrar var barn till en kollega till Carroll på universitet där han
+arbetade. Carroll tyckte om att berätta och hitta på historier för dessa barn. Den verkliga Alice
+övertalade Carroll att skriva ner sin berättelse om Alice, för flickorna blev så förtjusta i den.
+Det tog några år innan författaren fick ner berättelsen på papper och det första exemplaret gav
+han till Alice som en present. Han hade även gjort fina illustrationer till berättelsen. När
+boken sedan skulle tryckas tog Carroll hjälp av en framstående tecknare till att illustrera
+boken och det var John Tenniel (Kjersén Edman 2002, s 34). Litteraturvetaren Lena Kjersén
+Edman skriver vidare i Barn och ungdomsböcker genom tiderna (2002) att Alice i
+Underlandet inte har blivit lika känd i Sverige som den blev i England. I Sverige finns det en
+tradition, enligt författaren, att om en flicka är huvudpersonen i en bok ska hon vara gullig
+och rar, men i denna bok är Alice tvärtom. I England är Lewis Carrolls berättelse om Alice i
+Underlandet den mest citerade bok efter Bibeln och Shakespeares pjäser. Boken har översatts
+till 125 olika språk (Kjersén Edman 2002, s 36).
+13
+4.2 Susie Linn
+Information om författaren Susie Linn har varit svår att finna. Flera sökningar har gjorts i
+olika databaser men vi fann ingen fakta om författaren. Slutligen gjordes ett försök i
+sökmotorn Google och där fann vi följande på imaginethat.com.
+Susie Linn tog examen från Leeds Universitet i Storbritannien och där examinerades hon i
+creative arts med inriktning på konst och litteratur. Efter examen tog hennes skrivarkarriär fart
+och hon började skriva faktaböcker för barn under pseudonym (ej framkommit under vilken).
+När det sedan gått en tid började Linn allt mer att skriva sagoböcker för barn under eget
+namn, men även skolböcker för barn i tidiga åldrar (Imagine That, 2018). Susie Linn är
+fortfarande en verksam författare och har gett ut ett antal böcker, var av en är Alice i
+Underlandet. Den boken gjorde hon på uppdrag tillsammans med illustratören Alexandra Ball
+till 150-års jubiléet av verket. Andra exempel på hennes böcker är Anansi the clever spider
+(2017) och The first Christmas (2016).
+4.3 Resumé av Alice i Underlandet som kapitelbok
+Nedan kommer en resumé av kapitelboken Alice i Underlandet av Lewis Carroll (1865)
+översatt av Harry Lundin (1977). En dag sitter Alice med sin syster på stranden av åkanten
+och systern läser en bok för henne. Alice blir trött och sömning. Plötsligt ser hon en kanin
+som tilltalar henne. Kaninen tittar på sin klocka och kilar ner i sitt kaninhål. Alice blir nyfiken
+och springer efter, och nu händer det något ovanligt. Alice faller ner i kaninhålet, faller och
+faller och när hon till slut når botten ser hon kaninen igen och följer efter honom till en stor
+sal. Där finns det en massa dörrar som hon inte kan ta sig igenom utan en nyckel av guld. När
+hon öppnar en av dörrarna kunde hon se en fantastisk trädgård, men hon inser att hon är för
+stor för att komma in. Genom att äta en kaka och dricka ur en flaska förändras Alice
+storleksmässigt och det hjälper henne att utföra vissa moment. Ena stunden är hon så lång att
+hon slår huvudet i salstaket och i nästa stund blir hon så liten att hon nästan försvinner. När
+hon kommer ut genom dörren händer en hel del underliga saker, som exempelvis att hon
+simmar och pratar med en råtta i en sjö gjord av hennes egna tårar. Alice träffar på olika djur
+som vägleder henne framåt i Underlandet. Hon kommer på en tebjudning med hattmakaren
+och påskharen, träffar på Cheshirekatten och även den blåa kålmasken som ger henne goda
+råd. Hon spelar i en krocketturnering med drottningen och hennes hov (hovet som beskrivs är
+i form av spelkort) där klubborna är rosa flamingos och kloten är små igelkottar.
+Avslutningsvis får hon vara med på en rättegång där hon blir kallad till att vittna, men hon har 
+14
+ingen vetskap om händelsen ifråga. Den vita kaninens karaktär har en betydande roll genom
+hela berättelsen. Han dyker upp med jämna mellanrum för att påminna om att tiden håller på
+att rinna ut.
+4.4 Resumé av Alice i Underlandet som bilderbok
+Här följer en resumé av Susie Linns (2015) bilderbok Alice i Underlandet översatt av Gunilla
+Sjöberg (2015). En solig sommardag sitter Alice under trädet vid kanten av stranden. Hon får
+då ögonen på en vit kanin som har en klocka i sin tass. Hon följer efter honom ner i kaninhålet
+och faller handlöst. När hon väl landar i ett rum upptäcker hon att hon har ett antal dörrar
+runtomkring sig. Hon dricker ur en flaska och äter av en kaka och därmed förvandlas hon till
+olika storlekar. Hon växer så hon slår huvudet i taket och blir ledsen och av hennes tårar
+bildas en sjö, som hon simmar ut i tillsammans med ett antal djur. När hon väl nått land igen
+stöter hon på kaninen igen. I Underlandet träffar hon på olika varelser som hjälper henne i
+olika situationer, bland annat larven och Cheshirekatten. Hon får även delta i hattmakarens
+tebjudning tillsammans med påskharen och musen. Efter tebjudningen går Alice vidare i
+Underlandet och kommer till en fin trädgård. Där stöter hon på drottningen och hennes hov
+som vill spela krocket med henne. Klubborna är rosa flamingos och kloten består av små
+igelkottar. Efter en stunds spelande ropar någon att det är dags för en rättegång. Hjärter knekt
+är anklagad för att ha stulit drottningens syltkakor. Avslutningsvis börjar Alice att växa till
+normal storlek under rättegången och höjer sin röst mot drottningen och hennes medarbetare.
+Hon framför sitt missnöje med hela situationen och påtalar att de är bara en samling simpla
+kort.
+4.5 Genre – fantasy
+Det här avsnittet av uppsatsen beskriver fantasygenren. Detta för att Alice i Underlandet är en
+tidig form av denna genre.
+Inom litteraturen finns det olika genrer representerade. En genre är en typ av text, enligt
+Kåreland (2015, s 53–54), där författarna använder sig av en viss stil vid skrivandet och att
+texten följer ett visst mönster, beträffande både formen och innehållet. Inom den klassiska
+genreteorin, som uppmärksammas under 1600-talet, sätts det upp stränga regler på hur
+exempelvis ett diktverk och en tragedi ska utformas. Det beror på att man vill hålla isär de
+olika genrerna. De stränga reglerna resulterar i att gränserna för genren bibehålls. Idag är det 
+15
+inte lika stränga regler för författarna att följa, enligt Kåreland. Det finns vissa genrer som
+följer sina mönster ändå, som exempelvis när en författare skriver en saga har den oftast med
+början det var en gång och tretalet. För att litteraturen ska få exempelvis räknas till genren
+fantasy ska den innehålla minst en magisk värld som är helt olik verkligheten, menar
+Kåreland (2015, s 54). Kåreland skriver vidare att det positiva med att litteraturen är indelad i
+olika genrer är att läsaren får en vägledning till vad boken handlar om och det blir även lättare
+att hitta en speciell bok som läsaren är intresserad av.
+Fantasygenren och sagans genre är nära förknippade med varandra, men enligt Kåreland
+(2001, s 81) är det en punkt som särskiljer dem från varandra. I fantasyböckerna är intrigerna i
+två helt olika världar såsom i fantasins- och verklighetens värld. De här världarna, påpekar
+Nikolajeva (2017, s 121), kännetecknas genom att det finns magiska varelser, händelser och
+föremål. Nikolajeva (2017, s 90–91) nämner även att fantasy har olika vanliga motiv och ett
+av de vanligaste är kampen mellan det goda och det onda. Detta tema kan även finnas med i
+andra skönlitterära texter för barn, men motivet som enbart finns med i fantasyböckerna är
+”dörren till ett magiskt land eller resor i tiden med hjälp av magiska medel” (2017, s 91). En
+av det mest påfallande fantasyverk är Alice i Underlandet från 1865. Kåreland (2001, s 80)
+konstaterar att författaren Lewis Carroll satte upp mönstret för hur ett fantasyverk skulle
+utformas som när Alice springer efter kaninen ner i hålet (Carroll 1865, s 8). Här försvinner
+hon från verkligheten på stranden till det magiska underlandet, för att sedan komma tillbaka
+till vekligheten i slutet av boken. Hon försvinner från verkligheten genom drömmen.
+Fantasylitteraturen är inte riktad till någon speciell åldersgrupp anser Kåreland (2001 s 81).
+Genren har haft en framträdande roll i litteraturen som kommer från England, men när det
+gäller Sverige har vi anammat den via översättningar. Enligt Maria Nikolajeva (2000) finns
+det olika sätt att tydliggöra fantasygenren i en kapitelbok och en bilderbok. Hon menar att:
+[…] mellan fantasygenren i bilderboken och i romanen ligger i bildens förmåga att direkt
+återge påhittade miljöer och figurer, att skildra förvandlingar och andra fantastiska
+händelser som i romanen kan bara beskrivas eller antydas. (2000, s 53).
+Det här kommer vi att undersöka närmare i vår analys där vi tittar på bildens förmåga att
+belysa en episod ur Alice i Underlandet.
+16
+5 Tidigare forskning
+I detta avsnitt redovisas tidigare forskning om Alice i Underlandet men även om författaren
+Lewis Carroll.
+Lewis Carrolls Alice i Underlandet är en berättelse som det har forskats om i årtionden. I
+boken Aspects of Alice (1971) behandlar olika författare Alice i Underlandet utifrån olika
+synvinklar. Robert Phillips har gjort en sammanställning i denna bok av olika studier som har
+gjorts av Lewis Carrolls verk. Paul Schilder, som är en av kapitelförfattarna, gör en
+psykoanalytisk kommentar till Alice i Underlandet och Lewis Carroll. I ett annat kapitel i
+boken skriver Florence Milner om dikterna i Alice i Underlandet. Olika perspektiv utifrån
+Alice i Underlandet behandlar Elsie Leach i ett kapitel i Aspects of Alice (1971). Margareta
+Borg (2015) skriver i sin artikel Alice for the iPad, popup-boken och 1800-talets visuella
+kulturer om hur adaption har skett från originalutgåvan till applikationer till surfplatta men
+även till en popup-bok.
+Forskningen är varierande med olika infallsvinklar, såsom bland annat psykologiska, där
+drömmar är det primära. Litteraturvetaren Boel Westin (2008, s 75–77) skriver i sin artikel Ej
+verklighet men mer än verklighet… att karaktären Alice är en representant för jaget i en
+författares sätt att skriva om drömmar. Alice kropp är ett redskap för Carrolls drömmar om
+hur en barndom ska vara. Westin skriver om hur forskaren William Empson anser att Carroll
+använder sig av det lilla barnet Alice som en metafor för hur en vuxen återger tanken om hur
+det är att vara barn. Genom detta menar forskaren att det är en sorts gestaltande av en
+pånyttfödelse då Alice gråter och tårarna blir då en symbolik för fostervattnet. Vidare påtalar
+Empson att det kan också vara ett sätt att påvisa hur en individ går från sin barndom in i
+vuxenvärlden. Hela scenariot med den upp- och nedvända världen i Underlandet kan relateras
+till denna tid i ett barns liv. När Alice går igenom de olika förvandlingarna storleksmässigt
+menar forskaren Empson att det är ett uttryck för att påvisa mognad inom drömmarnas
+fantasi. Westin skriver vidare att Empson påtalar att när Alice öppnar dörren till trädgården
+uppstår en bild av Alice önskan att få växa upp och bli vuxen.
+Efter sökning i databasen Diva har vi hittat tidigare forskning där man har jämfört Alice i
+Underlandet med en annan litteratur. Studentuppsatsen Text och illustration i samspel skriven
+av Rosanna Kahelin (2016) gör en komparativ analys av illustrationerna av Tove Janssons 
+17
+Pappan och havet och hennes illustrationer av Alice i Underlandet. Leo Sellén (2017) gör en
+genusanalys i sin studentuppsats Identitetsskapande i underlandet – en genusstudie av Alice i
+Underlandet där genusperspektivet granskas i verket. Louise Jonasson (2015) gör en
+jämförelse mellan tre olika upplagor av Alice i Underlandet i sin studentuppsats Bilder som
+stöd för läsförståelse. En studie av tre moderna utgåvor av Alice i Underlandet. Syftet i den
+analysen är att jämföra illustrationerna och de är gjorda av Tove Jansson 1983, Helen
+Oxenbury 2000 och Robert Ingpen 2009. Vi kan däremot inte hitta någon adaption från
+originalupplagan av Lewis Carroll till en bilderboksversion, som denna uppsats berör.
+6 Analys/Skillnader och likheter
+I analysen analyseras de båda böckerna ur ett övergripande perspektiv och därefter går vi in
+på de utvalda karaktärerna vilka är Alice, den vita kaninen, kålmasken/fjärilslarven och
+Cheshirekatten. Vi analyserar deras skillnader och likheter i framställningen av kroppsspråket,
+mimiken och deras personlighet. Vi analyserar även tre olika episoder som ingår i böckernas
+intriger. Karaktärerna som har en djupare beskrivning, Alice, den vita kaninen,
+kålmasken/fjärilslarven och Cheshirekatten, beskrivs inte närmare under episoderna. I detta
+avsnitt analyseras bara karaktärerna som inte tidigare har nämnts. Varje avsnitt avslutas med
+en sammanställning om skillnader och likheter och belyser konsekvenserna av adaptionen.
+6.1 Övergripande skillnader och likheter mellan böckerna
+Den stora skillnaden mellan böckerna är att Carrolls version är en kapitelbok med enstaka
+bilder som är av ringa betydelse för förståelsen av berättelsen, medan bilderbokens berättande
+bygger på både bild och text. En väsentlig del som vi ser är borttagen efter adaptionen till
+bilderboken är Alice syster. Hon varken nämns eller syns i bilderboken men i kapitelbokens
+inledning finns hon med. Det är systern som läser en bok för Alice, vilket Alice upplever som
+en tråkig bok. ”Men det fanns inga bilder i den och inga samtal, och vad är det för roligt med
+en bok som det inte är några bilder och samtal i? tänkte Alice.” (Carroll 1865, s 7). Denna
+sekvens från början av kapitelboken kan vi också se i bilderboken, i den sitter Alice ensam på
+strandkanten. Adaptionen av inledningen till berättelsen har ändå en liknande ingång. Slutet
+på berättelsen i bilderboken visar att Alice kommer åter till strandkanten ”Precis då vaknade
+Alice. Hon befann sig vid strandkanten igen.” (Linn 2015, s 24). Även i kapitelboken kom
+18
+hon åter till systern. ”Men hennes syster satt kvar där hon hade lämnat henne.” (Carroll 1865,
+s 106) och här ser vi likheterna mellan böckerna.
+Carroll har lagt in en berättarröst i boken som för intrigen framåt och förtydligar Alices
+karaktär och handlingar. Det hjälper läsaren att öka förståelsen och få ett tydligare
+sammanhang i intrigen. Berättarrösten framhäver att Alice inte är så smart som hon själv vill
+framstå som. Ett exempel är från när Alice ramlar ner genom kaninhålet och hon pratar för sig
+själv ”Alice hade ingen aning om vad latitud och longitud var för något, men hon tyckte det
+var roligt att säga långa, konstiga ord.” (Carroll 1865, s 8–9). Här kan vi se att berättarrösten
+gör sig hörd och förtydligar hennes okunnighet på ett lustigt sätt. Berättarrösten i bilderboken
+är den som berättar intrigen och förklarar den för läsaren. Rösten är inte framträdande, den för
+bara intrigen framåt och det finns ingen värdering i den.
+En annan skillnad som omedelbart syns är att det finns inslag av rim och ramsor i Carrolls
+bok medan sådana saknas i bilderboken. I kapitelboken blandas texten upp med dikterna.
+Carroll (1865, s 5) inleder med en vers om hur berättelsen om Alice blev till vilket inte sker i
+bilderboken. När Alice funderar på vem hon är efter att ha skiftat i storlek ett antal gånger
+försöker hon läsa upp Bä Bä vita lamm och inser då att något är fel för hon kan inte texten till
+den. På sidan 26 (Carroll, 1865) finns också en figurdikt av en svans. Den symboliserar
+råttans svans för råttan berättar sin historia för Alice. När hon lyssnar på råttan fantiserar hon
+texten som en svans (se bilaga 11).
+Vi kan även se att andra delar i berättelsen är borttagna genom adaptionen till bilderboken.
+När Alice faller ner i kaninhålet beskrivs det väl i kapitelboken vad hon ser på väggarna och
+vilka funderingar hon har under fallet. I bilderboken illustreras det tydligt hur hon faller
+handlöst ner i kaninhålet och på bilden kan vi se att det inte finns någonting på väggarna. Det
+är bara ett brunt hål med skelettrester från djur. (Linn, 2015, s 2–3. Se bilaga 1). Efter att
+Alice har simmat över sjön, som var gjord av hennes tårar, möter hon en samling av olika djur
+som hon börjar konversera med. Alice påpekar att hon vill bli torr efter simturen och då
+anordnar de en kapplöpning där de får springa sig torra (Carroll,1865, s. 23–25). Denna
+specifika sekvens finns inte omnämnd i Linns bilderbok. En annan sekvens som är borttagen
+från bilderboken är att Alice gör ett besök hos hertiginnan. När hon kommer in i hennes hus
+möter hon hertiginnan sittandes i köket med ett nyfött barn i knäet. När Alice får barnet i sin
+famn inser hon att det är en gris. Däremot är karaktären hertiginnan omnämnd i bilderboken 
+19
+vid ett tillfälle och det är när den vita kaninen frågar Alice ”’Var är hertiginnans handskar?’
+ropade han till Alice” (Linn 2015, s 10).
+Likheter som vi kan se är att bilderboken och kapitelboken följer samma kronologiska
+ordning genom berättelsen. Det är också tydligt i båda böckerna att Alice förvandlas till stor
+och sedan till liten. Här berättar båda författarna samma sak. I Carrolls bok beskrivs hur Alice
+reagerar när hon växer:
+I det samma slog hon huvudet i salstaket. [---] -Du borde riktigt skämmas, sade Alice. Du är
+ju stora långa flickan […] och så gråter du på det där sättet. Sluta genast med det! Men hon
+fortsatte ändå att gråta och göt sådana tårefloder att det blev en riktig sjö omkring henne,
+som täckte halva golvet och var en decimeter djup. (Carrol 1865, s 15).
+Susie Linn beskriver samma händelse med både text och bild: ”Nu började hon växa, hon
+växte så mycket att hennes huvud slog i taket – och hon började gråta. Alice grät så mycket
+att hennes tårar blev till en sjö som översvämmade rummet […]” (Linn, 2015, s 8) Det här är
+texten till bilden som visar hur Alice blir stor och hon slår i huvudet i taket och börjar gråta.
+Vi kan även se att de kända episoderna som tebjudningen, krocketspelet och rättegången är
+representerade i båda böckerna. I bilderboken är det förkortade varianter av episoderna men
+här samspelar bild och text för att förmedla de olika scenarierna och det medför att läsaren får
+med sig intrigen. Det här återkommer vi till när vi behandlar de olika episoderna djupare.
+6.1.1 Skillnader och likheter
+Efter vår undersökning av skillnader och likheter mellan kapitelboken och bilderboken kan vi
+konstatera att vi ser skillnader efter att adaptionen har gjorts till bilderboken, men det finns
+även likheter kvar. I bilderboken är vissa delar borttagna och det beror på att det är en
+komprimerad version och därmed finns det inte utrymme för allt i bilderboken. I och med
+detta har adaptionen genomförts för att passa det nya medium, vilket Frus och Williams
+(2010, s 3) berör och i vårt arbete är det bilderboken som utgör det nya mediet. De väsentliga
+delarna ur kapitelboken är med i bilderboken och båda böckerna följer samma kronologiska
+ordning under berättelsens gång. Exempel på en sådan likhet är när Alice genomgår vissa
+kroppsliga förändringar som när hon blir stor och slår i salstaket. En skillnad som vi ser är att
+i kapitelboken har Alice syster en liten roll i berättelsen vilket inte finns med i Linns version. 
+20
+Ytterligare en skillnad är att Carroll har valt att ta med en berättarröst som för fram Alice
+tankar och hur hon prövar sina kunskaper från skolan när hon faller ner i kaninhålet.
+-Jag undrar hur många mil jag har fallit nu? sade hon högt. Jag måste vara nära jordens
+medelpunkt. Det är visst sexhundrafemtio mil, tror jag. (Alice hade fått lära sig en hel
+mängd sådana saker i skolan. Tillfället var ju inte så väl valt att visa upp kunskaperna,
+eftersom det inte fanns några åhörare, men det var ett mycket lämpligt tillfälle för henne att
+repetera den.) (Carroll 1865, s 8)
+Detta är något som vi ser är svårt att förmedla i bilderboken utifrån samspelet mellan text och
+bild. I Carrolls version ser vi att det förekommer rim och ramsor som förhöjer bokens helhet
+och hjälper läsaren att förstå Alice många bottnar. I bilderboken finns det inget inslag av rim
+och ramsor.
+6.2 Alice
+I vår undersökning kommer vi nu att gå in på de utvalda karaktärerna Alice, den vita kaninen,
+kålmasken/fjärilslarven och Cheshirekatten och vi börjar med Alice. Alice karaktär utgör
+huvudrollen i Lewis Carrolls verk och får därmed mest utrymme i undersökningen av
+karaktärerna men hon förekommer även i episoderna som behandlas. Undersökningen
+kommer först att gå in på hur respektive karaktär beskrivs till det yttre ifråga om mimik och
+kroppsspråk men även hur karaktären är som person, exempelvis nyfiken, rädd och barsk.
+Dessa kriterier behandlas även när vi går in på vad vi kan utläsa av bilderna på karaktären.
+Upplägget är genomgående i analysen av karaktärerna i både kapitelboken och bilderboken.
+6.2.1 Karaktären Alice i kapitelboken.
+Utifrån texten framställs Alice som en blandning av en barn- och en vuxenkaraktär. Alice är
+väldigt nyfiken av sig som ett barn kan vara och i och med sin nyfikenhet hamnar hon i olika
+situationer. När hon följer efter den vita kaninen tänker hon inte på konsekvenserna utan
+nyfikenheten tar över och hon följer med kaninen ner i hålet (s. 8). När Alice upptäcker den
+lilla flaskan blir hon återigen nyfiken på vad den innehåller, men trots detta resonerar hon
+med sig själv som en vuxen om hon ska dricka den eller inte. Det står drick mig på flaskan
+och inte gift och därmed bestämmer hon sig för att dricka upp innehållet (s. 11). När Alice blir
+ledsen över att inte hon inte riktigt vet vem hon är så blir hon arg på sig själv, för hon vet att
+man inte behöver gråta över en sådan sak. Här förstår man som läsare att Alice vill vara 
+21
+förståndig men barnet tar över hand med känslorna (s. 15). I kapitelboken kan vi se att Alice
+känner sig förvirrad och förundrad över att hon kan prata med djuren, vilket hon är väl
+medveten om att man inte kan göra, men ändå gör hon ett försök som när hon pratar med
+råttan i sjön av tårarna.
+- Jag undrar om det tjänar något till att tala till den där råttan? tänkte Alice. Här är ju
+allting så besynnerligt, att det mycket väl kan tänkas att hon kan tala. Åtminstone skadar det
+inte att försöka. Och så började hon:
+- O, råtta, vet du hur man ska komma upp ur den här sjön? [---] Men hon sade ingenting. –
+Kanske hon inte förstår engelska, tänkte Alice. (Carroll 1865 s. 19–20).
+Citatet förtydligar Alice funderingar och resonemang med sig själv om vad man kan göra och
+inte göra, men trots sina resonemang vill hon ändå ta reda på om råttan kan prata eller inte i
+det underliga landet som hon befinner sig i. Under berättelsens gång accepterar Alice att hon
+hamnar i underliga situationer, men innerst inne tycker hon att det är konstigt att spela krocket
+med en flamingo som klubba och en igelkott som klot (s.70–71).
+Vid några enstaka tillfällen i berättelsen får Alice tillfälle att beskriva sig själv utifrån sitt eget
+perspektiv. Ett sådant tillfälle är när hon äter upp kakan och blir lång som en kikare och sedan
+säger hon ”Adjö, mina fötter! […] Å, mina stackars små fötter, jag undrar just vem som nu
+ska sätta på er strumpor och skor. Jag kan det alldeles säkert inte” (Carroll, 1865, s 14–15. Se
+bilaga 2). Här får vi reda på hur hon ser på sina fötter ur sitt eget perspektiv. I andra delar av
+boken för berättarrösten talan om hur Alice är och ser ut storleksmässigt. Carroll vill visa upp
+karaktären Alice som en duktig elev genom att ge henne olika ramsor som hon läser för olika
+personer. Alice kommenterar de här tillfällena med att referera till hennes läxor. Hon kan
+ramsorna och vet i sitt huvud hur de ska låta men orden blir lite konstiga ibland eftersom hon
+är i Underlandet. Exempelvis när hon ska läsa upp Rida rida ranka blir orden inte som hon
+tänkt sig (s. 88–89).
+De bilder av Alice som finns i kapitelboken visar en flicka från 1800-talet och det kan man se
+på hennes klädsel. Hon har en fin klänning, strumpor och små söta sandaler. Klädseln är
+densamma på alla illustrationerna vilket också gör att man förstår att berättelsen inte utspelar
+sig under en längre tid. Alice ansiktsuttryck ger ingen vink om hur hon känner sig eller vill
+uttrycka något som exempelvis glädje. Mimiken i ansiktet har små variationer och det är på
+22
+hennes ögon som vi kan urskilja dessa variationer (se bilaga 2). På bilden i bilaga 2 ser vi att
+Alice ögon är stora och det tolkar vi som om hon är rädd eller förvånad över att hon har vuxit
+så mycket. Kroppsspråket påvisar en stel hållning i samma bild. I bilaga 10 visar Alice med
+sitt kroppsspråk hur hon värjer sig för korten som kommer flygandes emot henne. Bilden
+visar även att Alice upplever rädsla genom mimiken och hennes blick. Alla bilder av Alice i
+boken illustreras i svartvitt och vi kan därmed inte urskilja om vilken färg som klänningen har
+eller om hon har rodnade kinder.
+6.2.2 Karaktären Alice i bilderboken.
+Susie Linn beskriver inte Alices utseende i texten. Det finns några beskrivningar på hur Alice
+känner sig: ”Hon kände sig varm, sömnig och uttråkad” (Linn 2015, s 2). Under rättegången
+beskriver författaren Alice känslor i texten. ”Allt eftersom rättegången fortsatte blev Alice
+mer och mer förvånad, och mer och mer irriterad” (Linn 2015, s 22). När Alice får syn på
+kakan tänker hon högt i texten och därmed blir läsaren medveten om vad som försiggår inuti
+hennes huvud (s 4). I en annan sekvens skildrar författaren också att Alice blir ledsen och
+börjar gråta. Det framkommer även i boken att författaren beskriver att Alice innehar olika
+egenskaper såsom nyfiken, påhittig och att hon är handlingskraftig.
+När vi tittar på bilderna i bilderboken ser vi en liten flicka med blont hår och ett blått hårband.
+Hon har en blå klänning med ett vitt förkläde. Alice klädsel är densamma genom hela boken.
+Mimiken i ansiktet varierar från uppslag till uppslag. Illustratören visar genom sina bilder att
+Alice blir bland annat glad, häpen, ledsen och förvånad. Bildernas storlek på Alice varierar.
+På mittuppslaget täcker Alice upp båda sidorna vilket visar hennes storlek i jämförelse med
+huset som hon befinner sig i (s 10–11).
+6.2.3 Skillnader och likheter
+Utifrån analysen av karaktären Alice i både kapitelbok och bilderbok konstaterar vi att Alice
+framställs och beskrivs på olika sätt i texten i böckerna, men det finns även likheter. I
+kapitelboken finns det inte några beskrivningar i texten om hur Alice ser ut förutom när hon
+förvandlas i storlek. Vid ett tillfälle beskriver dock Carroll hur Alice själv ser på sina fötter. I
+bilderboken ser vi inte heller några beskrivningar i texten av Alice och hennes utseende. För
+att kunna utläsa Alice utseende får man förlita sig till bilderna i båda böckerna. Alice klädstil
+liknar varandra som vi kan se på bilderna i bilaga 2 och 3. Här kan vi se att illustratören 
+23
+Alexandra Ball inspirerats av illustratören John Tenniel när hon illustrerar sina bilder till
+bilderboken. Vi har även sett att i båda böckerna förmedlas känslorna genom texten. Genom
+bilderna och texten i bilderboken kan vi se att de samspelar och påvisar vad Alice känner.
+Nikolajeva (2000, s 140) nämner att beskriva olika känslor är något som görs bäst genom
+texten. I bilderboken kan vi delvis se det som Nikolajeva tar upp, men vi kan också se att
+illustratören och författaren samarbetar omkring bild och text och på det sättet får fram Alice
+känslor. När texten säger att hon är ledsen visar även bilden att hon är det genom att tårarna
+rinner ner för hennes kinder. Däremot i Carrolls version illustreras Alice som ett stenansikte
+och påvisar därmed inga känslor. Ytterligare en aspekt som vi ser i vår analys är att bilderna
+är svartvita i kapitelboken medan i bilderboken är de färglagda, vilket gör att man ser
+exempelvis rodnad på Alice kinder. I Carrolls verk framgår det att Alice är en karaktär som
+ibland visar sig duktig som en vuxen och ibland nyfiken som ett barn. Det här är något som vi
+inte ser i någon form framträda i bilderboken.
+6.3 Den vita kaninen
+Analysen av karaktärer fortsätter med den vita kaninen. Denna karaktär dyker upp lite då och
+då genom berättelsen och det är han som lockar ner Alice i Underlandet.
+6.3.1 Karaktären den vita kaninen i kapitelboken.
+Kaninen beskrivs i kapitelboken som att han har röda ögon och en väst på sig och i hans ficka
+finns ett fickur som har en central roll genom hela berättelsen. Denna karaktär framställs som
+en ordentlig person som vill tillmötesgå hertiginnan (s.15) men även drottningen. Han är på
+väg till den stundande krocketturneringen och rättegången och vill inte komma för sent.
+Kaninens oro över tiden upprepas ett antal gånger genom hela berättelsen. Han säger vid ett
+tillfälle: ”- Vid mina öron och morrhår, vad klockan är mycket!” (Carroll 1865, s 10). Under
+rättegången får kaninen läsa upp anklagelserna mot hjärter knekt och därefter ger Carroll
+honom rollen att styra upp ordningen under rättegången (s. 92-94).
+Bilderna på den vita kaninen är svartvita och detaljerade. Han illustreras av Tenniel med
+mänskliga drag genom att han står på två ben och håller i sitt fickur med tassen, som ser ut
+som en hand. Kaninen har ett huvud, ben och fötter (tassar) som en kanin. Han ser proper ut
+på bilderna med sin kavaj, väst och käpp under armen (se bilaga 4). Mimiken på bilderna är
+inte framträdande och hans kroppsspråk visar på några bilder att han är på språng för läsaren 
+24
+ser bara ryggen på honom (1865, s 16). Kaninen byter klädstil till rättegången och då är han
+klädd i klänning med hjärtan på, som ett spelkort, och en kraftig krage runt halsen (1865, s
+91).
+6.3.2 Karaktären den vita kaninen i bilderboken.
+Den vita kaninen beskrivs i texten som att han har bråttom och skuttar förbi Alice ett par
+gånger. Han säger även till Alice att gå in i ett hus för att hämta hertiginnans handskar och det
+är det enda stället som han har en betydande roll i berättelsen. Det finns inget mer om
+kaninens utseende, beteende eller sätt att uttrycka sig. Däremot illustreras han ett antal gånger.
+Vi kan se att Alexandra Ball inspireras av John Tenniels illustrationer från originalversionen
+till viss del. Hon behåller kaninens mänskliga drag i form av en upprätthåll hållning och att
+han har kläder på sig. På sidan 2 springer han in med fickuret i tassen och tittar intensivt med
+sina blåa ögon på uret och kaninhålet. Alice utropar då till kaninen: ”’Hallå herr Kanin!’
+ropade Alice, nu klarvaken!” (Linn 2015, s 3). Utseendemässigt illustreras kaninen med
+mänskliga drag och blå ögon och med sin röda väst på sig. Klädseln är densamma på de fyra
+bilderna som han är med på.
+6.3.3 Skillnader och likheter
+Utifrån undersökningen av den vita kaninen ser vi att karaktären får en mer framträdande roll
+i kapitelboken i jämförelse med bilderboken. Den centrala funktionen för kaninens karaktär i
+bilderboken är när Alice följer efter honom ner i kaninhålet och kommer till Underlandet.
+Sedan är han bara med i berättelsens periferi. Den vita kaninens uppgift är att ha hand om
+tiden i kapitelboken, vilket omnämns lite i texten i bilderboken. Illustratören väljer att ta med
+fickuret på bilderna i bilderboken men läsaren får ingen förståelse varför uret är med, som
+exempelvis ” Från ingenstans kom en vit kanin springande med ett fickur i tassen…” (Linn
+2015, s 2). Det är ett samspel mellan bild och text i bilderboken men tidens betydelse är inte
+så markant som i kapitelboken. Carroll använder sig av karaktären för att i vissa scener föra
+berättelsen framåt. Kaninen påpekar några gånger att han kommer för sent och tiden håller på
+att rinna honom ur handen. Det är en fingervisning för läsaren om att det är något stort på
+gång. Carroll ger kaninen en framträdande roll även under rättegången vilket inte Linn gör i
+sin version. Efter att ha jämfört kaninen utifrån Nikolajevas (2017, s 167–168) redogörelse för
+platta och runda karaktärer, kan vi konstatera att kaninens karaktär är en platt karaktär för att
+han innehar endast ett kännetecken och det är oron för tiden. Tidigare har vi nämnt att det 
+25
+finns likheter i illustrationerna mellan böckerna, men vi har även sett skillnader. Tenniel
+illustrerar kaninen som en människa med drag av en kanin medan Ball illustrerar en kanin
+med lite mänskliga drag.
+6.4 Kålmasken /Fjärilslarven
+Den tredje karaktären i denna analys är kålmasken/fjärilslarven. Han har en liten roll i
+berättelsen och förekommer bara i en episod. Hans roll i berättelsen är att hjälpa och vägleda
+Alice i Underlandet.
+6.4.1 Karaktären kålmasken/ fjärilslarven i kapitelboken.
+I kapitelboken benämns denna karaktär som ”den blå kålmasken”. När han nämns första
+gången beskrivs han som en lugn person som sitter med armarna i kors och röker sin pipa.
+Därefter byter kålmasken uppträdande när Alice går in i en diskussion med honom om vem
+hon verkligen är, och då blir han tvär och irriterad och höjer rösten mot henne. Kålmaskens
+roll i texten är att hjälpa Alice och ge henne goda råd omkring hennes förvandlingar. Hon
+känner en slags tillhörighet till honom då hon vet att kålmasken också ska förändras och bli
+puppa och sedan en fjäril. Alice påpekar att ”[…] men när du en dag blir förvandlad till puppa
+– det vet du att du kommer att bli – och sedan till fjäril, så tror jag nog att du kommer att
+känna dig lite konstig.” (Carroll 1865, s 38). Under konversationen mellan Alice och
+Kålmasken försöker Alice dra orden ur munnen på honom för han har en kort ton mot henne.
+Han svarar väldigt kort och ställer alltid en motfråga till henne. Alice säger: ”- Jag tycker att
+du först borde tala om för mig, vem du är. – Varför det? frågade kålmasken.” (Carroll, 1865, s
+38). Trots kålmaskens tvära sätt gentemot Alice ger han henne en svamp som ska hjälpa
+henne. Svampen ska hon äta för att antingen bli stor eller liten beroende på vilken sida av
+svampen hon äter. (1865, s 37–44).
+Det finns en enda bild på kålmasken (s 39) och på den avläser vi att även denna karaktär har
+mänskliga drag. Vi ser en hand och en näsa som liknar en människas. Kålmasken sitter på en
+svamp och röker en vattenpipa med ryggen mot läsaren. Därmed är ansiktet nästan skymt. Vi
+kan se att han bär någon form av klädsel för det syns långa och vida ärmar på hans arm. 
+26
+6.4.2 Karaktären kålmasken/fjärilslarven i bilderboken.
+I bilderboken benämns denna karaktär som ”en blå fjärilslarv”. Det som nämns om honom i
+texten är att han är snäll och Alice erbjuds en svamp att äta. Om hon tar en tugga på den ena
+sidan av svampen hjälper det henne att bli mindre, och den andra sidan gör att hon blir större
+(s 12–13).
+Bilden som fjärilslarven finns med på visar när han ger Alice en tvådelad svamp. Genom
+mimiken kan vi avläsa att larven har ett snällt ansiktsuttryck och på näsan har han ett par
+glasögon, vilket gör att han inte bara ser snäll ut utan även klok. (se bilaga 5) Fjärilslarven är
+färgad blå med inslag av gult, grönt och rött. Illustratören har gett honom några mänskliga
+drag såsom näsa, ögon, fötter och händer och han ler snällt mot Alice (s 13). Kroppen är som
+en fjärilslarv men den är mönstrad likt ett paisleymönster. Fjärilslarven visar inte något
+speciellt med sitt kroppsspråk.
+6.4.3 Skillnader och likheter
+Det finns tydliga skillnader mellan böckerna beträffande hur beskrivningen av karaktären
+framställs och beskrivs. En stor skillnad är att de har olika namn i böckerna. Carroll benämner
+honom som en kålmask och Linn som en fjärilslarv. I kapitelboken framställs han som en
+vuxen karaktär som tillrättavisar det lilla barnet men ändå vägleder henne framåt. I
+bilderboken är däremot larvens uppgift att ge Alice en svamp som ska hjälpa henne att få
+tillbaka sin rätta längd och det kan då hjälpa henne att fortsätta sin vistelse i Underlandet. I
+kapitelboken för Alice och kålmasken en längre konversation om vem Alice egentligen är
+men i bilderboken säger fjärilslarven endast vad svampen ska användas till.
+Bilderna i böckerna skiljer sig också från varandra. I kapitelboken ser vi mänskliga drag på
+kålmasken medan i bilderboken är han mer autentisk illustrerad som en fjärilslarv, men det
+finns även mänskliga drag. I bilderboken illustreras larven som en snäll och klok larv, vilket
+vi ser genom mimiken i ansiktet och de röda glasögonen som sitter på näsan, som kan tolkas
+av läsaren som klokhet. I kapitelboken illustreras kålmasken bakifrån och därmed syns inte
+någon mimik. Bilden i kapitelboken förtydligar textens budskap för läsaren genom att den
+visar vad texten handlar om. Bild och text kompletterar därmed varandra, det texten inte tar
+upp visar istället bilden. 
+27
+6.5 Cheshirekatten
+Den fjärde och sista karaktären som vi gör en djupare analys av är Cheshirekatten. Det är en
+karaktär som förekommer under några sekvenser i berättelsen. Hans roll är att vara en kompis
+till Alice och han bryr sig om henne.
+6.5.1 Karaktären Cheshirekatten i kapitelboken.
+Cheshirekatten beskrivs i Carrolls text som en stor katt med ett stort flin vilket gör att man ser
+alla hans tänder och han har även långa klor på sina tassar. Katten tillhör hertiginnan och det
+är där Alice stöter på honom första gången och enligt Alice ser han snäll ut. Karaktären
+fungerar som en vägvisare åt Alice under hennes tid i Underlandet. Han berättar var olika
+personer bor och påtalar att alla är lite galna, och det innefattar även honom när han beskriver
+sig själv.
+- För det första, sade katten, så är en hund inte galen. Håller du inte med om det?
+– Ja, det gör jag nog, sade Alice.
+– Och en hund morrar ju när den är arg, fortsatte katten, och den viftar på svansen när den
+är glad. Men jag morrar när jag är glad och viftar på svansen när jag är arg. Därför är jag
+galen. (Carroll 1865, s 56)
+Cheshirekatten kommer och går genom berättelsen. Han framträder både i hel skepnad och
+med bara huvudet (se bilaga 6). När han försvinner går det sakta och bit för bit försvinner han
+bort och det sista är flinet. Katten kommer fram med endast ansiktet under krocketturneringen
+och frågar hur Alice har det och vad hon tycker om deltagarna i spelet.
+Illustrationerna på katten stämmer överens med beskrivningarna i texten. Munnen är
+framträdande och tänderna syns. Katten har ett snällt ansiktsuttryck trots att han har ett
+markant flin. De tre bilderna som katten finns med på är placerade över texten och han tittar
+ner på personerna som också finns med på bilden. I och med det får han en överblick över
+händelsen som utspelar sig på bilden (se bilaga 6). Bilden som visar att han försvinner bort är
+katten tecknad diffust och suddig (s 57). Illustrationen av katten påvisar inga tecken på
+mänskliga drag, utan han ser ut som en autentisk katt.
+6.5.2 Karaktären Cheshirekatten i bilderboken.
+Utifrån texten framställs Cheshirekatten som hjälpsam då han uppmanar Alice att hon ska
+besöka Påskharen. ”’Mjauuu… Du borde besöka Påskharen’, sa katten, hjälpsamt” (Linn 
+28
+2015, s 14). Avbilden på katten visar en snäll och leende katt där tänderna framhävs (s 14).
+Färgsättningen på katten är brun och har inslag av mörkröda ränder.
+6.5.3 Skillnader och likheter
+Utifrån analysen av Cheshirekatten ser vi att karaktären får olika stor plats i berättelsen. I
+bilderboken är hans enda roll att vägleda Alice till Påskharen medan i kapitelboken får han
+lite mer utrymme. I den boken dyker han upp ett par gånger och är som en vän till Alice som
+hon kan ty sig till. Ansiktsmimiken är identiska med varandra i böckerna. Illustratörerna gör
+liknande bilduttryck med det stora flinet och hans framträdande tänder. Samspelet mellan
+texten och bilderna i båda böckerna gör att läsaren får en helhetsbild av Cheshirekatten och
+karaktären för berättelsen framåt, eftersom han ger Alice vägledning om vart hon ska ta vägen
+någonstans.
+6.6 Tebjudningen
+Analysen övergår nu till att undersöka hur tre episoder framställds i kapitelboken och
+bilderboken och de är tebjudningen, krocketturneringen och rättegången. Den första episoden
+vi jämför är tebjudningen. Undersökningen behandlar episoden utifrån texten och sedan går vi
+in på hur den illustreras och detta berör både kapitelboken och bilderboken. Vi belyser även
+vissa karaktärer som inte getts utrymme för under tidigare avsnitt i uppsatsen. Karaktärerna är
+hattmakaren, påskharen, hasselmusen, kungen och drottningen. Undersökningen tar även upp
+miljöbeskrivningar utifrån bild och text i episoderna. Alice hänvisas av Cheshirekatten att
+besöka påskharen och när hon kom dit befinner hon sig mitt i en tebjudning tillsammans med
+påskharen, hattmakaren och hasselmusen.
+6.6.1 Episoden tebjudningen i kapitelboken kapitel ”En tokig tebjudning” sid 58–65.
+När Alice kom till tebjudningen avvisas hon av gästerna kring bordet, för det finns ingen plats
+för henne. Alice argumenterar för att det finns en plats och slår sig objuden ner. De som sitter
+runt bordet är påskharen, hattmakaren och hasselmusen. Ett stort bord står uppdukat framför
+huset under ett träd. De tre karaktärerna är placerade vid bordet på samma sida. Hasselmusen
+används som en kudde, eftersom han hänger över bordet och sover. Alla tre karaktärerna
+beskrivs inte i texten utseendemässigt utan företrädesvis hur de uppträder gentemot varandra.
+Påskharen beter sig nonchalant gentemot Alice i början av episoden. Han säger till henne:
+”- Det var mycket oartigt av dig att slå dig ner objuden, svarade påskharen. – Jag visste inte 
+29
+att det var ditt bord, sade Alice. Det är ju dukat för många fler än tre.” (Carroll 1865, s 58).
+Sedan accepterar han henne som en gäst vid bordet. Hattmakaren beter sig ohyfsat mot Alice
+för han påpekar att hon behöver klippa sig. ”- Du behöver klippa dig, sade hattmakaren. Han
+hade suttit och tittat på Alice en stund med nyfikna blickar, och detta var det första han sade.”
+(Carroll 1865, s 58). På det här sättet tycker inte Alice att man ska säga, för det är ohyfsat.
+Hattmakaren avvisar även Alice när hon försöker prata med hasselmusen. Det framgår i
+texten att hattmakarens uppgift är att hålla reda på tiden. Han har en klocka som visar vilken
+dag det är och inte vilken tid som normala klockor gör. Tiden är abstrakt i vanliga fall men
+hattmakaren ser Tiden som en person. ” – Om du kände Tiden lika bra som jag, sade
+hattmakare, så skulle du inte slösa bort den utan slösa bort honom. […] Du har väl aldrig ens
+talat med Tiden!” (Carroll 1865, s 60–61).
+Den tredje karaktären kring bordet vid tebjudningen är hasselmusen. Hans karaktär beskrivs
+som trött och sömnig. Hans uppgift under tebjudningen är att berätta en saga för de andra
+personerna. Även hasselmusen är avig mot Alice när hon ger kommentarer omkring sagan
+som han berättar. Hans kommentar är om hon inte är tyst får hon avsluta sagan själv. När
+sagan är slut reser sig Alice för att gå och då somnar hasselmusen direkt.
+Det finns tre bilder med från tebjudningen i kapitelboken och de finns på sidorna 59, 61 och
+65. På alla tre bilderna finns hattmakaren med och han illustreras som en man med hög hatt
+och skjorta med fluga och med ett nonchalant uttryckssätt, genom att han visar upp sin näsa
+med huvudet bakåtlutande (se bilaga 7). Påskharen och hasselmusen är med på två av
+bilderna. Påskharen har mänskliga inslag genom att han har på sig kläder, skjorta och fluga,
+och sitter vid bordet på en stol och hans mimik är intetsägande. Hasselmusen illustreras
+diffust på ena bilden medan den andra bilden visar hur han blir nedtryckt i tekannan. Även
+Alice är med på den första bilden. Alice placering på bilden är på änden av bordet. Hon sitter
+på en finare stol med klädd rygg medan de andra tre sitter på pinnstolar.
+6.6.2 Episoden tebjudningen i bilderboken sid 15.
+I bilderbokens text framgår det att Alice tar sig till tebjudningen i påskharens hus och blir
+mottagen av de andra gästerna, vilka är påskharen, hattmakaren och hasselmusen. Alice säger:
+”’Jag skulle verkligen vilja ha en kopp te,’ sa Alice, och tittade på de andra gästerna” (Linn
+2015, s 15). Hattmakaren svarar då Alice ”’Här står tiden still,’ förklarade den galne
+Hattmakaren. ’Det är ALLTID tid för te!’” (Linn 2015, s 15). I texten beskrivs hattmakaren 
+30
+som galen och hasselmusen som sömnig. Påskharen nämns inte i texten mer än att han är med
+runt bordet.
+Bildens illustrationer visar en glad Alice och en glad hattmakare och även påskharen ser ut att
+trivas kring bordet. Hasselmusen sitter på stolen och sover. Karaktärerna är uppklädda vilket
+syns genom att hattmakaren har en hatt, skjorta och fluga på sig och påskharen är klädd i
+skjorta och fluga. Hasselmusen har en rosa blus på sig (se bilaga 8). Episoden finns på ett
+halvt bilduppslag där man ser bordet uppdukat i trädgården under ett träd. På bordet ligger det
+en mönstrad duk och det står en tekanna och tekoppar på bordet. Hasselmusen välter ut en
+tekopp så det blir en fläck på duken. Hattmakaren och påskharen sitter på varsin ända av
+bordet medan Alice står vid den ena långsidan och hasselmusen sitter på den andra.
+Hattmakaren sitter på den bättre stolen medan de andra har pinnstolar.
+6.6.3 Skillnader och likheter
+Analysen av denna episod visar samma kronologiska ordning i båda böckerna. En skillnad
+mellan böckerna som noterats är att i kapitelboken välkomnas inte Alice till bordet, medan i
+bilderboken framkommer det att hon bjuds på te. Vi ser det även i jämförelsen mellan
+bilderna i böckerna. I bilderboken är Alice och de andra gästerna kring bordet glada, medan i
+kapitelboken ser det ut som gästerna nonchalerar Alice och hon visar med sitt kroppsspråk en
+bestämd hållning. Karaktärerna är illustrerade på liknande sätt, de är uppklädda alla tre, men
+som tidigare nämnts är mimiken olika mellan böckerna. I kapitelboken ser vi att texten
+beskriver vad bilderna visar medan i bilderboken visar bilderna mer än vad texten säger.
+6.7 Krocketturneringen
+Den andra episoden som vi väljer att undersöka är krocketturneringen. Efter tebjudningen
+kom Alice till drottningens trädgård där det sker en krocketturnering. Alice blir inbjuden av
+drottningen till att deltaga i spelet.
+6.7.1 Episoden krocketturneringen i kapitelboken i kapitlet ”Drottningens krocketplan” sid
+66–74.
+När Alice befinner sig i drottningens trädgård kom det en procession som består av
+drottningen, kungen, deras knektar och den vita kaninen. Alice tillfrågas av en skrikande
+drottning om hon vill delta i krocketspelet. ” – Utmärkt! skrek drottningen. Kan du spela 
+31
+krocket? […] -Ja ropade Alice. -Kom då! skrek drottningen.” (Carroll 1865, s 70). Hon tackar
+ja till erbjudandet och ansluter sig till processionen intill den vita kaninen. Krocketplanen
+beskrivs som plogfåror och jordhögar, och bågarna som kloten ska rulla igenom är i form av
+soldater som står framstupa. Krocketklubborna är rosa flamingos och kloten är små igelkottar.
+Alice reflekterar över hur svårt det är att hantera flamingon som en krocketklubba.
+Det besvärligaste var att hantera flamingon, tyckte Alice. Hon kunde visserligen ganska lätt
+hålla honom under armen och låta benen hänga rätt ned, men så fort hon fått honom att
+sträcka ut halsen och ämnade ge igelkotten en stöt med hans huvud vred han på sig och såg
+henne i ansiktet med en så löjlig min att Alice måste skratta. (Carroll 1865, s 70).
+Drottningen framställs i texten som en hård och sträng person. Är det någon som säger emot
+henne befaller hon direkt ”Hugg huvudet av dem!” (Carroll 1865, s 69). Detta återkommer ett
+antal gånger under episoden. Hon uppfattas även som pedant för hon inspekterar sin trädgård
+noggrant och även sina anställda. Kungen beskrivs som att han har en underlägsen position i
+förhållande till drottningen. Han kan inte ta egna beslut utan tillfrågar henne när de viktiga
+besluten ska fattas och utföras. Kungen har ingen framträdande roll under krocketturneringen.
+Bilderna från krocketturneringen och processionen är detaljrika. Drottningen har på sig en
+klänning med hjärtan på, hon gestaltas alltså som ett spelkort, hjärter dam. Kungen gestaltas
+också som ett spelkort, hjärter kung, och har en kunglig utstyrsel på sig med en krona på
+huvudet och en spira i handen. Knektarna vid kungens hov gestaltas som riktiga spelkort och
+korten utgör deras klädsel. På en av de tre bilderna står drottningen i förgrunden på bilden och
+pekar med en barsk gest mot Alice (s 69). Vi avläser hennes agerande genom mimiken och
+hennes kroppsspråk. Kungen och hovet står i bakgrunden och deras mimik är lite olika.
+Kungen ser sur ut medan knektarna uttrycker förväntan. På en bild illustreras Alice med en
+flamingo i famnen och igelkottar på backen (s 71). Flamingon illustreras som en fågel och har
+inga mänskliga drag och detsamma gäller för igelkottarna. Sista bilden (s 73) på
+krocketturneringen visar hur kungen står och diskuterar med drottningen och klöver knekt och
+även denna bild är detaljrik. Mimiken och kroppsspråket på karaktärerna visar att de är arga
+på varandra. Cheshirekatten finns även med på bilden som vi har nämnt tidigare under
+rubriken Cheshirekatten (6.5.1).
+32
+6.7.2 Episoden krocketturneringen i bilderboken sid 15–19.
+I texten får läsaren vetskap om att det går en procession genom drottningens vackra trädgård
+och i den ingår flera spelkort, vilka representeras av hjärter kung, hjärter dam och den vita
+kaninen. Drottningen skriker till Alice ”’Hallå där!’ Kom och spela krocket med oss!” (Linn,
+2015, s 18). Citatet visar hur drottningen är beskriven i texten. Hon skriker/befaller Alice till
+att deltaga i spelet. Helt plötsligt deltar Alice i krocketturneringen vilket hon upplever som det
+underligaste hon har varit med. Klubborna är flamingor och kloten är igelkottar. I bilderboken
+finns inga mer karaktärer omnämnda i texten.
+Det finns två bilduppslag där processionen och krocketturnering illustreras. De befinner sig
+utomhus på en plan som är inhägnad av ett staket. Bågarna till krocketspelet illustreras som
+vanliga krocketbågar. Drottningen har en klänning på sig med röda hjärtan och kungen bär en
+lång cape och även den har röda hjärtan. Mimiken på de båda karaktärerna är allvarlig och
+drottningen ser bestämd ut vilket avläsas av hennes kroppsspråk (s 17). Den vita kaninen,
+Alice och en knekt är också gestaltade på bilduppslaget. På nästa bilduppslag finns
+drottningen och Alice med och de spelar krocket. Drottning håller i en flamingo och svingar
+iväg igelkotten med full kraft. Det gör att Alice nästan blir träffad av igelkotten (se bilaga 9)
+och hon får huka sig ner för att inte bli det. Drottningens mimik på denna bild utstrålar ilska.
+6.7.3 Skillnader och likheter
+Analysen av denna episod konstaterar vi att båda böckerna följer samma kronologiska
+ordning. Karaktärerna får olika mycket utrymme. Drottningen har den framträdande rollen i
+båda böckerna. Hennes mimik och kroppshållning illustreras på liknande sätt. Drottningens
+inbjudan till Alice gällande krocketturneringen skiljer sig mellan böckerna. I kapitelboken
+skriker drottningen till henne och frågar om hon kan spela krocket, medan i bilderboken
+beordrar drottningen att Alice ska vara med i spelet. Kungen får mer utrymme i kapitelboken,
+än i bilderboken, genom både text och bild. Han för exempelvis en konversation med
+Cheshirekatten och Alice.
+-Vem talar du med? frågade kungen, som kommit fram och nyfiket betraktade katthuvudet.
+- Får jag föreställa en vän till mig, en Cheshirekatt, svarade Alice.
+– Jag tycker inte alls om hans utseende, sade kungen. Men han kan få kyssa mig på handen
+om han vill.
+– Helst inte, sade katten. (Carroll 1865, s 72)
+33
+Denna sekvens ser vi inte i bilderboken men kungen finns representerad på en bild och
+omnämns i texten att han deltar i processionen. Flamingon och igelkotten beskrivs och
+illustreras på liknande sätt. En skillnad i beskrivningen av bågarna i krocketspelet är att i
+kapitelboken nämns det endast i texten att de utgörs av soldater, medan i bilderboken finns det
+inte omnämnt i texten utan de illustreras som vanliga bågar.
+6.8 Rättegången
+Den tredje och sista episoden som analyseras är rättegången. Det ska ske en rättegång och
+Alice har blivit meddragen i den och har ingen vetskap om vad som kommer att hända. Den
+anklagade är hjärter knekt och han har stulit drottningens syltkakor.
+6.8.1 Episoden rättegången i kapitelboken i kapitel ”Vem stal kakorna” sid 91–98 och
+kapitlet ”Alice vittnesmål” sid 99–106
+Under rättegångens episod finns alla karaktärer med som vi tidigare har nämnt. Det är kungen
+som håller i rättegången och agerar domare. Bredvid kungen sitter den vita kaninen och
+drottningen. Omkring de nämnda karaktärerna finns det en samling av olika djur och hela
+kortleken i form av soldater. Mitt i rättegångssalen står det ett bord med drottningens kakor
+på. Mellan bordet och hovet står den anklagade hjärter knekt. Läsaren får en beskrivning av
+hur några karaktärer är placerade i rättegångssalen genom Alice tankar:
+- Det där är domaren, tänkte Alice, för han har en stor peruk. Domaren var förresten kungen
+själv, och han bar sin krona ovanpå peruken. Det verkade inte alls vara bekvämt, och det
+var absolut inte klädsamt. – Och där är juryns plats, tänkte hon, och de där tolv varelserna
+(hon måste säga varelserna, för några var däggdjur och andra fåglar) det är
+jurymedlemmarna. (Carroll 1865, s 91–92)
+Karaktärernas placering är tydliga genom citatet. Kungen befaller den vita kaninen att blåsa i
+trumpeten när varje vittne ska träda fram. Det första vittnet är hattmakaren som kommer ”…
+in med en tekopp i ena handen och en smörgås i den andra.” (Carroll 1865, s 94). Hans
+vittnesmål är förvirrande och det leder inte fram till något. Kungen blir irriterad och säger ett
+antal gånger att han ska hugga huvudet av honom. Nästa vittne är hertiginnans kokerska som
+har gjort kakorna. Hon berättar att kakorna är mest gjorda av peppar. Kungen påtalar då att
+drottningen får fortsätta förhören för han har fått huvudvärk av all uppståndelse. ”Nästa 
+34
+vittne! Det får du korsförhöra! sade han till drottningen med låg röst. Jag får så ont i huvudet
+av det här.” (Carroll 1865, s 98). Nästa vittne är Alice. När hon reser sig upp i båset råkar hon
+slå omkull jurymedlemmarna för hon har vuxit till sin normala storlek. Kungen börjar att
+tvivla på om hon får vittna.
+Han säger:
+-Paragraf fyrtiotvå: Alla personer som är över en mil långa ska lämna salen. Alla tittade på
+Alice.
+– Jag är inte en mil lång, sade Alice.
+– Jo, det är du, sade kungen.
+– Du är nära två mil lång, tillade drottningen.
+– Men jag går inte ändå, sade Alice. Det är förresten ingen riktig paragraf. Den hittade du
+på nu. (Carroll 1865, s 101)
+Alice försvarar den anklagande knekten och hon är inte rädd för hovet längre eftersom hon
+har vuxit till sin ordinarie storlek. ” – Vem bryr sig om er? sade Alice. (Hon hade nu växt, så
+att hon var lika lång som vanligt.) Ni är ju bara en kortlek.” (Carroll 1865, s 104). Drottningen
+träder fram när Alice ska avlägga sitt vittnesmål. Hennes uppträdande är barskt och hon hotar
+med att hugga huvudet av personer som inte håller med hennes åsikter eller gör som hon
+säger. Efter Alice försök till att vittna uppstår det ett kaos i rättssalen och alla korten flyger
+över Alice (se bilaga 10).
+Det är nio bilder som illustrerar rättegången i kapitelboken. Den vita kaninen illustreras på en
+bild och han har en mantel med hjärtan på sig och blåser i trumpeten (s 91). Mimiken är
+svårbedömd eftersom han blåser i trumpeten. Kungen och drottningen är tillsammans på en
+bild (s 93) där man ser att de sitter på tronen. Kungen bär en domarperuk med kronan på
+huvudet och han har även en mantel på sig. Mimiken på honom är intetsägande och
+kroppshållningen är svår att avläsa för han sitter ner. Drottningen är klädd i klänning och med
+en kåpa samt krona på huvudet. Mimiken är bestämd, mungiporna är neddragna och hon har
+en stirrande blick. Kroppshållningen visar också att hon är bestämd, eftersom hon har armarna
+i kors. Hattmakaren är illustrerad på två bilder (s 94, 97). Ansiktet är skymt på båda bilderna
+och han håller sin smörgås och tekopp i var sin hand. Alice finns med på två bilder (s 99,
+105). Den ena bilden skildrar hur hon har växt och vält omkull jurymedlemmarna. Alice
+mimik är tidigare beskriven under rubrik 6.2.1. Den andra bilden illustrerar slutet av 
+35
+rättegången och visar det kaos som uppstår när korten kommer flygandes över Alice (se
+bilaga 10).
+6.8.2 Episoden rättegången i bilderboken sid 20–23.
+I texten framkommer det att alla beger sig till rättssalen och Alice följer med strömmen dit.
+Där tillkännages det av en myndig man att en person har blivit anklagad för att ha stulit
+drottningens kakor. ”’Ooo!’ utropade juryn som enbart bestod av djur, stora såväl som små.”
+(Linn 2015, s 21). Under rättegången blir Alice förvånad och irriterad och dessutom börjar
+hon att växa. När Alice kallas upp av den myndige mannen till att vittna, välter hon omkull
+jurybåset med alla djuren i. En reaktion på detta kom från drottningen ”’AV MED HENNES
+HUVUD!’ skrek Hjärter Dam” (Linn 2015, s 23). Citatet avspeglar hur drottning beter sig
+under episoden. Därefter får Alice nog och utbrister ”’NI är inget annat än en samling
+spelkort!’ skrek hon, när korten flög upp i luften och ner över henne.” (Linn 2015, s 23)
+På bilduppslaget (s 20–21) befinner sig kungen och drottningen mitt på bilden sittandes i ett
+bås och till höger om dem den anklagade knekten. Kungens mimik visar att han är förvånad
+och drottningens är intetsägande. Karaktärerna, som vi tidigare nämnt, sitter tillsammans med
+Alice på vänster sida om kungen och drottningen och lyssnar på den myndige mannen med en
+förvånad blick och kroppsspråket uttrycker detsamma. Jurymedlemmarna, som illustreras som
+riktiga djur men de har kläder på sig, sitter i ett bås till höger om den anklagade knekten.
+Nästa bilduppslag (s 22–23) ser vi drottningen som pekar och skriker till Alice. Hennes
+mimik i denna situation uttrycker en ilska och genom hennes kroppsspråk ser vi att hon tar i
+när hon skriker. Drottningen står nere i det vänstra hörnet och är mindre i storlek än Alice.
+Alice täcker hela sidan 23 med sin storlek och det påvisar hur hon har växt. Bilden visar även
+kaoset som bryter ut vid slutet av rättegången och alla spelkorten kommer flygandes.
+6.8.3 Skillnader och likheter
+Analysen av denna episod påvisar att båda böckerna följer samma kronologiska ordning, men
+med en komprimerad version i bilderboken. Den markanta skillnaden vi ser i denna episod, är
+att kungen är den som håller i rättegången i kapitelboken och begär fram de olika
+vittnesmålen. Det är han som agerar domare. Kungen finns även med på flera illustrationer av
+rättegången. I bilderboken är han däremot inte omnämnd i texten men han finns med på en
+bild och där utger han ett intetsägande uttryck. I bilderboken är det en myndig man som håller 
+36
+ordningen i rättssalen. Det finns ingen person som agerar domare. Den myndige mannen är
+den som kallar upp vittnen i bilderboken, medan i kapitelboken är det den vita kaninen som
+har den rollen. ”- Kalla fram första vittnet! sade kungen. Den vita kaninen blåste i trumpeten
+och ropade: - Första vittnet!” (Carroll 1865, s 94).
+I bilderboken ges inte karaktären Alice något utrymme till att vittna utan hon kallas bara upp
+till vittnesbåset, medan i kapitelboken ges Alice en chans att försvara den anklagade innan
+kaoset bryter ut. Vi konstaterar även att bilderna i kapitelboken får ett större utrymme i
+förhållande till andra episoder i samma bok. Kapitlen om rättegången innefattas av flera sidor
+än de andra berörda episoderna och därmed kan det vara en konsekvens av att det är fler
+bilder. Genom analysen konstatera vi att Linn har komprimerat texten i bilderboken och låter
+bilden tala mer. Kungens och drottningens mimik och kroppsspråk illustreras på ett snarlikt
+sätt i böckerna. Vi ser även att avlutningen på rättegången illustreras på liknade sätt.
+Spelkorten flyger upp i luften mot Alice som sträcker upp armarna och värjer sig mot dem.
+Denna sekvens har fått ett helt bilduppslag i bilderboken men det finns på en stor bild i
+kapitelboken.
+7 Diskussion
+I det här avsnittet diskuterar vi resultatet av vår analys av kapitelboken Alice i Underlandet av
+Lewis Carroll (1865) samt bilderboken Alice i Underlandet av Susie Linn (2015). Det
+innehåller även en didaktisk diskussion där vi diskuterar litteraturens relevans i
+undervisningen och därmed kopplingen till Läroplanen Lgr11 (Skolverket, 2017). Avsnittet
+avlutas med förslag på vidare forskning och en sammanfattande reflektion över uppsatsens
+syfte och frågeställningar.
+7.1 Diskussion av resultat
+Resultatet av analysen diskuteras i följande avsnitt. Analysen visar att det har genomförts en
+adaption från Carrolls kapitelbok till Linns bilderbok. Frus och Williams (2010, s 3) menar att
+adaptionen bidrar till att originaltexten passar in i ett nytt medium, exempelvis som i detta fall
+bilderboken. Det är vissa delar som är helt borttagna från bilderboken, men trots det ser vi att
+den kronologiska ordningen i episoderna och själva intrigen i boken är intakt efter att
+adaptionen är genomförd. Linn har ändå fått med de mest kända episoderna från Carrolls 
+37
+version, som exempelvis tebjudningen och rättegången, men i komprimerade versioner. I och
+med adaptionen till bilderboken och därmed bortfallet av text, anpassar illustratören bilderna
+till intrigen. Bilden kompenserar den borttagna texten och det medför att läsaren får med sig
+en del av intrigens innehåll ändå. Bilderboken är komprimerad för att den ska passa yngre
+läsargrupper. Det finns diskussioner om Carrolls originalversion är riktad till barn eller vuxna
+och efter vår undersökning tycker vi att den har ett mer ungdoms/vuxen perspektiv. Det
+grundar vi på att karaktärerna visar upp olika personlighetsdrag i kapitelboken som är svårt
+för barn att förstå utan närmare förklaring. Hela intrigen bygger på en dröm som Alice har.
+Boel Westin (2008, s 75–77) skriver att forskaren William Empson anser att Carroll använder
+Alice som en metafor för hur en vuxen återger tanken om hur det är att vara ett barn. Det kan
+vara Carrolls sätt att beskriva sin egen barndom på, hur han gärna vill växa upp och bli vuxen.
+Den här metaforen blir inte synlig i bilderboken.
+Efter att adaptionen är genomförd kan vi se att de fyra utvalda karaktärerna har genomgått en
+förändring i både text och bild. Förändringen som vi kan se är att karaktärerna pratar på ett
+snällare sätt och de är mer ödmjuka mot varandra. Det som Linn har behållit i bilderboken
+som inte är så snällt är en kommentar som drottningen ger under rättegången när hon skriker
+till Alice ”’AV MED HENNES HUVUD’” (Linn 2015, s 23). När vi tittar på bilderna av
+karaktären Alice i bilderboken illustreras hon i färg och ser på flertalet bilder glad ut, medan i
+kapitelboken är bilderna svartvita och hon ser inte glad ut, utan mer bekymrad över sin
+situation. Den vita kaninen har en väsentlig roll i kapitelboken men det kommer inte fram i
+bilderboken. Där finns han med i bakgrunden och är omnämnd ett fåtal gånger. Vi kan även
+se att de resterande karaktärerna, kålmasken/fjärilslarven och Cheshirekatten, har genomgått
+liknande adaption och får en mindre roll i bilderboken. Förändringarna som vi ser är troligtvis
+gjorda för att bilderboken är tänkt till en yngre läsgrupp och har därmed en ödmjukare
+framtoning. Utifrån undersökningen av karaktärerna finner vi att de är beskrivna som både
+platta och runda karaktärer (Nikolajeva 2017, s 167–168). Den vita kaninen, Cheshirekatten
+och kålmasken/fjärilslarven anser vi att de uttrycks som en platt karaktär med endast något
+kännetecken. Alice däremot är en rund karaktär eftersom hon har fler än ett kännetecken och
+läsaren vet inte hur hon kommer att handla i olika situationer. De tre episoderna,
+tebjudningen, krocketturneringen och rättegången, som vi behandlar i undersökningen får
+också en mildare framtoning i bilderboken än i kapitelboken. Den dramatik som finns kvar i
+bilderboken efter adaptionen är när Alice är ledsen och hon är tvungen att simma i sin egen
+sjö av tårar. Även när drottning svingar sin flamingo under krocketturneringen och slår iväg 
+38
+igelkotten mot Alice så hon får ducka för att inte bli träffad, finns kvar. I kapitelboken
+uttrycker drottningen ofta att hon vill hugga huvudet av personer och det finns en sekvens
+kvar av det i bilderboken.
+En skillnad som vi ser i analysen är att Carroll använder sig av rim och ramsor i texten och
+det ser vi inte i Linns version. En förklaring till detta kan vara att när Carroll skrev boken
+1865 var det en naturlig del i barns vardag med dikter, som Florence Milner (1971) skriver
+om i Aspects of Alice. Däremot kan vi se att båda författarna ”leker” med textens utformning.
+När råttan berättar sin berättelse i kapitelboken är texten i form av en råttsvans (se bilaga 11)
+och i bilderboken när Alice faller ner i kaninhålet slingrar sig texten runt henne och följer ner
+i kaninhålet (se bilaga 1).
+Nikolajeva (2000, s 139, 178) tar upp att det är svårt att beskriva känsloyttringar i en
+bilderbok vilket vi håller med om, men vi kan se att det går att få fram det genom samspelet
+mellan text och bild. Författaren påpekar att i vissa fall kan texten förhöja personskildringen
+om text och bild överensstämmer med varandra, vilket det gör i bilderboken om Alice. Linn
+har tagit med ett fåtal ord i texten om hur Alice känner sig, men vi ser att illustratören
+Alexandra Ball visar en del känsloyttringar i illustrationerna såsom glädje och ilska. I
+kapitelboken kommer det tydligt fram hur Alice känner sig genom en berättarröst. Den
+förmedlar bland annat när Alice blir förvånad och hur hon känner sig, men berättarrösten har
+även till uppgift att beskriva miljön i kapitelboken. När vi läser i kapitelboken finns miljön
+beskriven i texten och det är den som läsaren får förlita sig till samt bilda egna tolkningar om
+hur miljön ser ut (Nikolajeva 2000, s 119). Kapitelbokens bilder skildrar endast små
+sekvenser och det är svårt att få en helhetsbild av miljön i dem. I bilderboken får läsaren
+förlita sig till bilden för att få en miljöupplevelse av intrigen, för det nämns inget i texten om
+den.
+7.2 Didaktisk diskussion
+Den didaktiska diskussionen i det här avsnittet knyts an till styrdokumenten i läroplanen Lgr
+11 (2017). Enligt syftet för ämnet svenska i läroplanen för grundskolan ska eleverna få
+utveckla sina kunskaper om olika skönlitterära verk från olika tidsepoker och länder
+(Skolverket 2017, s 252). En klassisk författare som Lewis Carroll har satt upp mönstret för
+hur fantasylitteraturen kan utformas (Kåreland 2001, s 80). Genom att ge eleverna möjlighet 
+39
+till att läsa bilderboken och kapitelboken av Alice i Underlandet bidrar det till att eleverna får
+kunskap om ett skönlitterärt verk, en känd författare och fantasygenren. Fantasygenren är idag
+en populär litterär genre bland barn och ungdomar, som exempelvis Harry Potter och Sagan
+om ringen vilka är kända fantasyserier.
+Vi ser att kapitelboken kan användas som en högläsningsbok i klassrummet. Vi tycker att
+diskussioner ska föras med eleverna efter vissa kapitel, då en del sekvenser kan vara svåra att
+förstå. En diskussion som kan föras med eleverna är omkring känslor som exempelvis hur
+Alice upplever det när hon inte är välkommen att sitta ner vid bordet vid tebjudningen. Den
+här diskussionen kopplar vi till skolans värdegrundsuppdrag i läroplanen Lgr 11. Där står det
+att:
+Skolan ska främja förståelse för andra människor och förmåga till inlevelse. Omsorg om
+den enskildes välbefinnande och utveckling ska prägla verksamheten. Ingen ska i skolan
+utsättas för diskriminering på grund av kön, etnisk tillhörighet, religion eller annan
+trosuppfattning, […] eller för annan kränkande behandling. (Skolverket 2017, s 7)
+Här diskuterar vi bland annat omkring mobbning, hur det är att vara ny i klassen och
+utanförskap.
+Eleverna kan också få skriva om sitt eget ”Underland” och för att få inspiration kan de ta
+hjälp av både bilderboken och kapitelboken. Vilken bok eleven kan utgå från bör anpassas av
+lärarens kunskaper om elevens läsförmåga. Genom detta får eleverna även med sig kunskaper
+om hur det är att skriva en fantasyberättelse.
+En bra aktivitet för vår elevgrupp är att spela teater och då utgå från Alice i Underlandet.
+Bilderboksversionen skulle passa bra till förskoleklass och årskurs 1 eftersom den är
+framställd som lite mildare och då kan man följa intrigens gång utan att frångå något.
+Kapitelboken är en bra grund till att spela teater med de äldre eleverna i årskurs 2 och 3 och
+då få in lite värderingar i intrigen. Här bör läraren göra ett didaktiskt val vilken version av bok
+som ska användas beroende på elevgruppen. Denna aktivitet kopplar vi till syftet i Lgr 11 där
+det står att eleverna ska få möjlighet att utveckla sin förmåga att kommunicera i tal, analysera
+skönlitteratur men även anpassa sitt språk till olika syften. De får även öva på att prata inför
+en större grupp.
+40
+7.3 Förslag på vidare forskning
+Det har forskats mycket omkring Alice i Underlandet och Lewis Carroll ur olika synvinklar
+genom åren. Vår analys kan vidgas genom att man byter ut kriterierna för analysen och jämför
+något annat i böckerna eller undersöka böckerna ur ett annat perspektiv. Carrolls version
+ligger till grund för andra medier som exempelvis film och applikationer. Här kan man göra
+en jämförelse på samma vis som denna undersökning och med snarlika kriterier, det vill säga
+jämföra boken med filmen och vilka skillnader och likheter som finns.
+7.4 Sammanfattande reflektioner
+Det avslutande stycket sammanfattar våra reflektioner över vår uppsats. Syftet med denna
+uppsats har varit att jämföra Alice i Underlandet av Lewis Carroll (1865) och
+bilderboksversionen av Susie Linn (2015). I adaptionen som genomförts ser vi att intrigen i
+bilderboken fortfarande följer samma kronologiska ordning som i kapitelboken, fast i en
+komprimerad version. Efter den genomförda analysen av Carrolls originalverk och Linns
+bilderboksversion konstatera vi att en del karaktärer har en respektlöshet mot varandra och det
+utstrålas ingen glädje i varken text eller bild i kapitelboken. Trots karaktärernas nonchalans
+gentemot Alice hjälper och vägleder de henne genom Underlandet. Boken behandlar viktiga
+ämnen som även idag är aktuella och bra att diskuteras i skolan, när det gäller frågor om
+exempelvis värdegrunden. I och med att karaktärerna i bilderboken har genomgått en adaption
+har framtoningen i bilderboken blivit mildare som exempelvis karaktären Alice. Hon ser snäll
+och glad ut på bilderna och det ger en positiv känsla för läsaren. Textens utformning är också
+mildare framställt. Det gör att bilderboken är mer anpassad till den yngre läsgruppen. I
+bilderboken ser vi att bilderna talar om det texten inte kan förmedla, alltså stämmer
+ordspråket En bild säger mer än tusen ord.
+41
+8 Referenslista
+Borg, Margareta (2015). Alice for the iPad, popup-boken och 1800-talets visuella kulturer.
+Ekfrase: Nordisk tidskrift for visuell kultur. 2015: 6 s. 37–47
+Carroll, Lewis (1865). Alice i Underlandet. Stockholm: Rabén & Sjögren Bokförlag
+Frus, Phyllis & Williams Christy (red) (2010). Beyond adaptation. Essays on radical
+transformations of original works. Jefferson, N.C.: McFarland & Co.
+Hahn, Daniel (2015). The Oxford companion to children’s literature. Oxford: Oxford
+University Press.
+Holmberg, Claes-Göran & Ohlsson, Anders (1999). Epikanalys. En introduktion. Lund:
+Studentlitteratur.
+Imagine That (2018). Alice in Wonderland. Series:Picture storybooks
+http://www.imaginethat.com/books/book/?title=15186 hämtad 2018-04-17 kl. 11.30
+Refereras i löptexten som: (Imagine That (2018)).
+Jonasson, Louise (2015). Bilder som stöd för läsförståelse. En studie av tre moderna utgåvor
+av Alice i Underlandet. Studentuppsats. Kalmar, Växjö: Linnéuniversitet
+Kahelin, Rosanna (2016). Text och illustration i samspel. En komparativ studie av Tove
+Janssons Pappan och havet och utgåvan av Alice i underlandet med hennes
+illustrationer. Studentuppsats. Uppsala: Uppsala Universitet
+Kjersén Edman, Lena (2002). Barn och ungdomsböcker genom tiderna. Stockholm: Natur och
+Kultur
+Kåreland, Lena (2001). Möte med barnboken. Uddevalla: Mediaprint
+Kåreland, Lena (2013). Barnboken i samhället. Lund: Studentlitteratur AB
+Kåreland, Lena (2015). Skönlitteratur för barn och unga. Historik, genrer, termer, analyser.
+Lund: Studentlitteratur
+Leach, Elsie (1971). Alice in Wonderland in perspective. I Robert Phillips Aspects of Alice.
+Sid 121–126. Bungay, Suffolk: Richard Clay Ltd
+Linn, Susie (2015). Alice i Underlandet. Sollentuna: Barthelson förlag
+Milner, Florence (1971). The poems in Alice in Wonderland. I Robert Phillips Aspects of
+Alice. Sid 295–302. Bungay, Suffolk: Richard Clay Ltd
+Nikolajeva, Maria (2000). Bilderbokens pusselbitar. Lund: Studentlitteratur
+Nikolajeva, Maria (2017). Barnbokens byggklossar. Lund: Studentlitteratur AB Upplaga 3:1
+Olsson, Anders (2002). Intertextualitet, komparation och reception. I Staffan Bergsten (red)
+Litteraturvetenskap – en inledning. Sid 51–68 Lund: Studentlitteratur Upplaga 2
+42
+Peterson Lars (1985). Om upprorets lust och en frigörande bananrevy. I Kristin Hallberg och
+Boel Westin (red) I bilderbokens värld 1880–1980. sid 164–189 Stockholm: Liber
+förlag
+Rhedin, Ulla (2001). Bilderboken på väg mot en teori. Stockholm: Alfabeta Bokförlag AB
+Rhedin, Ulla (2004). Bilderbokens hemlighet. Stockholm: Alfabeta Bokförlag AB
+Schilder, Paul (1971). Psychoanalytic remarks on Alice in Wonderland and Lewis Carroll. I
+Robert Phillips Aspects of Alice. Sid 333–343. Bungay, Suffolk: Richard Clay Ltd
+Sellén. Leo (2017). Identitetsskapande i underlandet – en genusstudie av Alice i Underlandet.
+Studentuppsats. Örebro: Örebro Universitet
+Skolverket (2017). Läroplan för grundskolan, förskoleklassen och fritidshemmet. Reviderad
+2017. Stockholm: Skolverket
+Sundmark, Björn (2016). Carroll Studies. En samlingsrecension från Anna Kerchy, Sissy
+Helff och Nadia Butt (Red.) och Virginie Iché. Journal of children’s literature
+research. Volym 39 (2016)
+Westin, Boel (2008). ”Ej verklighet men mer än verklighet…” Drömtexter i barnlitteraturen. I
+Maria Andersson och Elina Druker (red). Barnlitteraturanalyser sid 71–82. Lund:
+Studentlitteratur AB
+43
+Bilagor
+Bilaga 1
+Bild från Alice i Underlandet av Susie Linn 2015. Illustrerad av Alexandra Ball.
+44
+Bilaga 2
+Bild från Alice i Underlandet av Lewis Carroll 1865. Illustrerad av John Tenniel.
+45
+Bilaga 3
+Bild från Alice i Underlandet av Susie Linn 2015. Illustrerad av Alexandra Ball.
+46
+Bilaga 4
+Bild från Alice i Underlandet av Lewis Carroll 1865. Illustrerad av John Tenniel.
+47
+Bilaga 5
+Bild från Alice i Underlandet av Susie Linn 2015. Illustrerad av Alexandra Ball.
+48
+Bilaga 6
+Bild från Alice i Underlandet av Lewis Carroll 1865. Illustrerad av John Tenniel.
+49
+Bilaga 7
+Bild från Alice i Underlandet av Lewis Carroll 1865. Illustrerad av John Tenniel.
+50
+Bilaga 8
+Bild från Alice i Underlandet av Susie Linn 2015. Illustrerad av Alexandra Ball.
+51
+Bilaga 9
+Bild från Alice i Underlandet av Susie Linn 2015. Illustrerad av Alexandra Ball.
+52
+Bilaga 10
+Bild från Alice i Underlandet av Lewis Carroll 1865. Illustrerad av John Tenniel.
+53
+Bilaga 11
+Bild från Alice i Underlandet av Lewis Carroll 1865. Illustrerad av John Tenniel.
+54
+Bilaga 12
+Från: Barthelson Förlag <info@barthelsonforlag.se>
+Ämne: SV: Översättare
+Datum: 15 maj 2018 15:55:05 CEST
+Till: 'Kristin Noord' <kristin.noord@telia.com>
+Hej Kristin,
+Tack för ditt mail.
+Vilket kul ämne för en C uppsats!
+Det var 2015 som Gunilla Sjöberg översatte den boken.
+Vänliga hälsningar
+Malin Barthelson
+Barthelson Förlag
+-----Ursprungligt meddelande-----
+Från: Kristin Noord <kristin.noord@telia.com>
+Skickat: den 5 maj 2018 13:16
+Till: info@barthelsonforlag.se
+Ämne: Översättare
+Hej !
+Jag undrar vilket år Gunilla Sjöberg översatte Alice i Underlandet i bilderboksversion?
+Jag håller på att skriva en C uppsats omkring denna bok och jag har inte hittat årtalet när den blev översatt
+Med vänlig hälsning, Kristin Noord Student vid Örebro Universitet
+Mailkonversation med bokförlaget Barthelson angående vilket år översättningen var gjord av
+bilderboken Alice i Underlandet. Det framkom inte i bilderboken. 
