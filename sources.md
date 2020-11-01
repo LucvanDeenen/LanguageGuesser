@@ -1,24 +1,24 @@
-Obtained via and more: 
+## Obtained via and more: 
 http://gutenberg.org/
 
-German:
+# German:
 - Alice in wonderland: http://www.gasl.org/refbib/Carroll__Wunderland.pdf
 
-English:
+# English:
 - Alice in wonderland: http://gutenberg.org/ebooks/11
 
-French: 
+# French: 
 - Alice in wonderland: http://www.gutenberg.org/ebooks/55456
 
-Italian:
+# Italian:
 - Alice in wonderland: http://www.letturegiovani.it/E-book/Alice.pdf
 
-Dutch: 
+# Dutch: 
 - Alice in wonderland: https://www.dbnl.org/tekst/carr021avon02_01/carr021avon02_01.pdf
 
-Russian:
+# Russian:
 - Alice in wonderland: http://www.xn--101-8cdo3any.xn--p1ai/pdf/Kyerroll_L_Alisa_V_Strane_ChudesII.a6.pdf
 
-Swedish:
+# Swedish:
 - Alice in wonderland: https://www.diva-portal.org/smash/get/diva2:1222437/FULLTEXT01.pdf
 

@@ -3,11 +3,6 @@ import os
 import operator
 import datetime
 
-# Available language, data and base directory
-languages = ["NL", "EN", "FR", "DE", "IT", "SWE", "RU"]
-data = []
-base = os.path.dirname(os.path.abspath(__file__)) + "/data"
-
 # Characters
 characters = [chr(i) for i in range(91, 126)]  # Latin Alphabet
 characters.extend([chr(i) for i in range(33, 64)])  # Numbers
@@ -17,6 +12,11 @@ characters.extend(["а", "б", "в", "г", "д", "е", "ё", "ж", "з",
                     "и", "й", "к", "л", "м", "н", "о", "п", "р",
                     "с", "т", "у", "ф", "х", "ц", "ч", "ш", "щ",
                     "ъ", "ы", "ь", "э", "ю", "я"])  # Russian characters
+
+# Available language, data and base directory
+base = os.path.dirname(os.path.abspath(__file__)) + "/data"
+languages = ["NL", "EN", "FR", "DE", "IT", "SWE", "RU"]
+data = []
 
 # Import data function
 def importData(language):
