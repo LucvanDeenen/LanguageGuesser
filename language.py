@@ -1,8 +1,10 @@
+from datetime import date
 import os
-import math
+import operator
+import datetime
 
 # Available language, data and base directory
-languages = ["NL", "EN", "FR", "DE", "IT", "SWE"]
+languages = ["NL", "EN", "FR", "DE", "IT", "SWE", "RU"]
 data = []
 base = os.path.dirname(os.path.abspath(__file__)) + "/data"
 
@@ -11,7 +13,10 @@ characters = [chr(i) for i in range(91, 126)]  # Latin Alphabet
 characters.extend([chr(i) for i in range(33, 64)])  # Numbers
 characters.extend([chr(i) for i in range(223, 255)])  # Special characters
 characters.extend([chr(i) for i in range(161, 171)])  # Currency
-characters.extend([chr(i) for i in range(400, 450)])  # Russian characters
+characters.extend(["а", "б", "в", "г", "д", "е", "ё", "ж", "з", 
+                    "и", "й", "к", "л", "м", "н", "о", "п", "р",
+                    "с", "т", "у", "ф", "х", "ц", "ч", "ш", "щ",
+                    "ъ", "ы", "ь", "э", "ю", "я"])  # Russian characters
 
 # Import data function
 def importData(language):
@@ -37,12 +42,12 @@ for language in languages:
     data.append(importData(language))
 
 # Make (tri/bi)gram
-def setGram(tri, characters):
+def setGram(gramSize, characters):
     gram = {}
 
     for x in characters:
         for y in characters:
-            if tri:
+            if gramSize:
                 for z in characters:
                     gram[x + y + z] = 0
             else:
@@ -70,18 +75,18 @@ def trainGrams(x, data, gram):
                 hits += 1
 
     # add score to total hits
-    for key, value in gram.items():
+    for (key, value) in gram.items():
         gram[key] = value/hits
 
-    # Smoothing 
+    # Smoothing
     smoothingFactor = 1 / len(gram.items())
-    for key, value in gram.items():
+    for (key, value) in gram.items():
         if (value == 0):
             gram[key] += smoothingFactor
 
     sumValue = sum(gram.values())
 
-    for key, value in gram.items():
+    for (key, value) in gram.items():
         gram[key] = value/sumValue
 
     return gram
@@ -106,19 +111,25 @@ def predict(grams, gramSize):
             for index, gram in enumerate(grams):
                 predictions[languages[index]] *= gram[gramString]
 
-    # Total of values
+    # Total of values n
     total = sum(predictions.values())
 
-    # 
+    # Output
     for key, value in predictions.items():
         print("{} has a chance of {}".format(key, value/total))
+
+    print("\nThe predicted language is:", max(predictions.items(), key=operator.itemgetter(1))[
+          0], "\n- Certainty:", predictions[max(predictions.items(), key=operator.itemgetter(1))[0]] / total)
+
+    input("\nPress any key to try again!")
+    predict(grams, gramSize)
 
 # Start program
 def setup():
     # selection
     tri = input("\nWould you like to use tri- or bigrams? (Fill in tri or bi): ")
     grams = []
-
+    startTime = datetime.datetime.now()
     # Trigram
     if (tri == "tri"):
         print("\nSetting up grams...")
@@ -126,7 +137,7 @@ def setup():
         # Make trigrams
         trigrams = [setGram(True, characters) for x in languages]
         print("Finished setting up grams!")
-        
+
         # Train grams
         print("\nStarting training...")
         for index, trigram in enumerate(trigrams):
@@ -150,26 +161,16 @@ def setup():
         print("Done training!")
 
     # Restart
-    if (tri != "tri" and tri != "bi"): 
+    if (tri != "tri" and tri != "bi"):
         print("Invalid awnser!")
         setup()
+        
+    # Calculating time used
+    endTime = datetime.datetime.now()
+    timeSpend = endTime-startTime
+    print("Elapsed time for making and training the grams: {}.{}".format(timeSpend.seconds,timeSpend.microseconds))
 
+    # User input
     predict(grams, 3 if tri == "tri" else 2)
 
-# Train grams
-def trainTest(x, data):
-    print(data)
-    data = data.split()
-    print(data)
-
-    for word in data:
-        # Take word and start iteration through letters (use -x to prevent out of bounds)
-        for i in range(0, len(word) - x + 1, 1):
-            string = ""
-
-            # Add letters to string
-            for j in range(0, x):
-                string += word[i+j]
-
-            print(string)
 setup()
