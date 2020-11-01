@@ -75,18 +75,18 @@ def trainGrams(gramSize, data, gram):
                 hits += 1
 
     # add score to total hits
-    for (key, value) in gram.items():
+    for key, value in gram.items():
         gram[key] = value/hits
 
     # Smoothing
     smoothingFactor = 1 / len(gram.items())
-    for (key, value) in gram.items():
+    for key, value in gram.items():
         if (value == 0):
             gram[key] += smoothingFactor
 
     sumValue = sum(gram.values())
 
-    for (key, value) in gram.items():
+    for key, value in gram.items():
         gram[key] = value/sumValue
 
     return gram
@@ -118,8 +118,8 @@ def predict(grams, gramSize):
     for key, value in predictions.items():
         print("{} has a chance of {}".format(key, value/total))
 
-    print("\nThe predicted language is:", max(predictions.items(), key=operator.itemgetter(1))[
-          0], "\n- Certainty:", predictions[max(predictions.items(), key=operator.itemgetter(1))[0]] / total)
+    print("\nThe predicted language is:", max(predictions.items(), key=operator.itemgetter(1))[0],
+          "\n- Certainty:", predictions[max(predictions.items(), key=operator.itemgetter(1))[0]] / total)
 
     input("\nPress any key to try again!")
     predict(grams, gramSize)
@@ -168,7 +168,7 @@ def setup():
     # Calculating time used
     endTime = datetime.datetime.now()
     timeSpend = endTime-startTime
-    print("Elapsed time for making and training the grams: {}.{}".format(timeSpend.seconds,timeSpend.microseconds))
+    print("\nElapsed time for making and training the grams: {}.{}".format(timeSpend.seconds,timeSpend.microseconds))
 
     # User input
     predict(grams, 3 if tri == "tri" else 2)
