@@ -16,6 +16,9 @@ Italian:
 Dutch: 
 - Alice in wonderland: https://www.dbnl.org/tekst/carr021avon02_01/carr021avon02_01.pdf
 
+Russian:
+- Alice in wonderland: http://www.xn--101-8cdo3any.xn--p1ai/pdf/Kyerroll_L_Alisa_V_Strane_ChudesII.a6.pdf
+
 Swedish:
 - Alice in wonderland: https://www.diva-portal.org/smash/get/diva2:1222437/FULLTEXT01.pdf
 
