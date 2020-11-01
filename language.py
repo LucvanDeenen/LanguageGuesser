@@ -56,17 +56,17 @@ def setGram(gramSize, characters):
     return gram
 
 # Train grams
-def trainGrams(x, data, gram):
+def trainGrams(gramSize, data, gram):
     # Total hits
     hits = 0
 
     for word in data:
         # Take word and start iteration through letters (use -x to prevent out of bounds)
-        for i in range(0, len(word) - x + 1, 1):
+        for i in range(0, len(word) - gramSize + 1):
             string = ""
 
             # Add letters to string
-            for j in range(0, x):
+            for j in range(0, gramSize):
                 string += word[i+j]
 
             # Check if string is in tri-/bigram
@@ -103,7 +103,7 @@ def predict(grams, gramSize):
 
     # Calculate predictions
     for word in sentence:
-        for i in range(0, len(word) - gramSize + 1, 1):
+        for i in range(0, len(word) - gramSize + 1):
             gramString = ""
             for j in range(0, gramSize):
                 gramString += word[i+j]
